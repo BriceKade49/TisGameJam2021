@@ -1,13 +1,22 @@
+<<<<<<< Updated upstream
 ﻿Log file open, 01/31/21 13:33:56
+=======
+﻿Log file open, 01/31/21 13:50:01
+>>>>>>> Stashed changes
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: GameJam2021
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.298647
+=======
+LogStats: Stats thread started at 0.230406
+>>>>>>> Stashed changes
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin XGEController
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
@@ -24,9 +33,38 @@ LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin PropertyAccessNode
+=======
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin UObjectPlugin
@@ -50,9 +88,15 @@ LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
+=======
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin MagicLeapMedia
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosNiagara
@@ -80,6 +124,28 @@ LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
+=======
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
@@ -87,12 +153,16 @@ LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AssetTags
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin CableComponent
-LogPluginManager: Mounting plugin ChunkDownloader
-LogPluginManager: Mounting plugin CustomMeshComponent
+=======
 LogPluginManager: Mounting plugin AudioSynesthesia
+>>>>>>> Stashed changes
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GoogleCloudMessaging
@@ -107,9 +177,12 @@ LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PhysXVehicles
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin PropertyAccessEditor
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SignificanceManager
@@ -117,12 +190,43 @@ LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+=======
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
+<<<<<<< Updated upstream
+=======
+LogXGEController: Cleaning working directory: C:/Users/Jefferey Schlueter/AppData/Local/Temp/UnrealXGEWorkingDir/
+>>>>>>> Stashed changes
 LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
@@ -151,7 +255,11 @@ LogInit: Build: ++UE4+Release-4.26-CL-14830424
 LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
 LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
 LogInit: Net CL: 14830424
+<<<<<<< Updated upstream
 LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+=======
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: AMD Radeon RX 5600 XT
+>>>>>>> Stashed changes
 LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
@@ -191,7 +299,11 @@ LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
 LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+<<<<<<< Updated upstream
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Engine.ini]
+=======
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Engine.ini]
+>>>>>>> Stashed changes
 LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
 LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
 LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
@@ -209,6 +321,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 [2021.01.31-18.33.57:871][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.01.31-18.33.57:871][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.01.31-18.33.57:871][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Engine.ini]
@@ -2383,3 +2496,1232 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-19.25.09:061][ 16]LogD3D11RHI: CleanupD3DDevice
 [2021.01.31-19.25.09:389][ 16]LogExit: Exiting.
 [2021.01.31-19.25.09:408][ 16]Log file closed, 01/31/21 14:25:09
+=======
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.50.01:937][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.01.31-18.50.01:937][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.50.01:937][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.50.01:945][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.31-18.50.01:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.31-18.50.01:946][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.31-18.50.01:946][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.31-18.50.01:946][  0]LogHAL: Display: Platform has ~ 16 GB [17108594688 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.31-18.50.01:946][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.31-18.50.01:946][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.31-18.50.01:946][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.31-18.50.01:947][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.31-18.50.01:948][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.31-18.50.01:948][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.31-18.50.01:948][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.31-18.50.01:948][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.31-18.50.01:948][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.31-18.50.01:948][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.50.01:948][  0]LogInit: Computer: DESKTOP-SOAUH6C
+[2021.01.31-18.50.01:948][  0]LogInit: User: JeffereySchlueter
+[2021.01.31-18.50.01:948][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.01.31-18.50.01:948][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.31-18.50.01:948][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.31-18.50.01:948][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.31-18.50.01:948][  0]LogMemory: Process Physical Memory: 136.87 MB used, 136.87 MB peak
+[2021.01.31-18.50.01:948][  0]LogMemory: Process Virtual Memory: 110.05 MB used, 110.05 MB peak
+[2021.01.31-18.50.01:948][  0]LogMemory: Physical Memory: 8387.20 MB used,  7928.82 MB free, 16316.03 MB total
+[2021.01.31-18.50.01:948][  0]LogMemory: Virtual Memory: 134206448.00 MB used,  11282.02 MB free, 134217728.00 MB total
+[2021.01.31-18.50.01:955][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.31-18.50.01:983][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.31-18.50.01:984][  0]LogInit: Using OS detected language (en-US).
+[2021.01.31-18.50.01:984][  0]LogInit: Using OS detected locale (en-US).
+[2021.01.31-18.50.01:988][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.01.31-18.50.02:185][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.31-18.50.02:202][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.31-18.50.02:236][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.31-18.50.02:236][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.31-18.50.02:411][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.31-18.50.02:411][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.31-18.50.02:411][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.31-18.50.02:411][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.31-18.50.02:450][  0]LogD3D11RHI:    0. 'AMD Radeon RX 5600 XT' (Feature Level 11_0)
+[2021.01.31-18.50.02:450][  0]LogD3D11RHI:       6100/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2021.01.31-18.50.02:453][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.31-18.50.02:453][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.31-18.50.02:453][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.31-18.50.02:462][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.31-18.50.02:462][  0]LogD3D11RHI:     GPU DeviceId: 0x731f (for the marketing name, search the web for "GPU Device Id")
+[2021.01.31-18.50.02:462][  0]LogWindows: EnumDisplayDevices:
+[2021.01.31-18.50.02:462][  0]LogWindows:    0. 'AMD Radeon RX 5600 XT' (P:1 D:1)
+[2021.01.31-18.50.02:463][  0]LogWindows:    1. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2021.01.31-18.50.02:463][  0]LogWindows:    2. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2021.01.31-18.50.02:463][  0]LogWindows:    3. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2021.01.31-18.50.02:464][  0]LogWindows:    4. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2021.01.31-18.50.02:464][  0]LogWindows:    5. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2021.01.31-18.50.02:464][  0]LogWindows:    6. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2021.01.31-18.50.02:465][  0]LogWindows:    7. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2021.01.31-18.50.02:465][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.01.31-18.50.02:465][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 5600 XT
+[2021.01.31-18.50.02:465][  0]LogD3D11RHI:   Driver Version: Adrenalin 20.10.35.02 (internal:27.20.1034.6, unified:27.20.1034.6)
+[2021.01.31-18.50.02:465][  0]LogD3D11RHI:      Driver Date: 8-21-2020
+[2021.01.31-18.50.02:465][  0]LogRHI: Texture pool is 3629 MB (70% of 5185 MB)
+[2021.01.31-18.50.02:535][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.31-18.50.02:535][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.31-18.50.02:535][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.31-18.50.02:554][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2021.01.31-18.50.02:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.31-18.50.02:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.31-18.50.02:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.31-18.50.02:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.31-18.50.02:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.31-18.50.02:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.31-18.50.02:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.31-18.50.02:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.31-18.50.02:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.31-18.50.02:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.31-18.50.02:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.31-18.50.02:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.31-18.50.02:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.31-18.50.02:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.31-18.50.02:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.31-18.50.02:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.31-18.50.02:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.31-18.50.02:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.31-18.50.03:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.31-18.50.03:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.31-18.50.03:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.31-18.50.03:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.31-18.50.03:050][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.01.31-18.50.03:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.01.31-18.50.03:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.01.31-18.50.03:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.01.31-18.50.03:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.31-18.50.03:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.31-18.50.03:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.31-18.50.03:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.31-18.50.03:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.31-18.50.03:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.31-18.50.03:136][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.31-18.50.03:144][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.31-18.50.03:215][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.01.31-18.50.03:216][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Intermediate/Shaders/WorkingDirectory/21384/).
+[2021.01.31-18.50.03:216][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jefferey Schlueter/AppData/Local/Temp/UnrealShaderWorkingDir/29AF7F1D4F582CF5F230B6AA49279680/'.
+[2021.01.31-18.50.03:216][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.31-18.50.03:216][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.31-18.50.04:050][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.31-18.50.04:104][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Jefferey Schlueter/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.31-18.50.04:105][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jefferey Schlueter/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.01.31-18.50.04:105][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.31-18.50.04:105][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.31-18.50.04:105][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.31-18.50.04:105][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.31-18.50.04:118][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.31-18.50.04:118][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.31-18.50.04:118][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.31-18.50.04:131][  0]LogDerivedDataCache: Speed tests for C:/Users/Jefferey Schlueter/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.01.31-18.50.04:132][  0]LogDerivedDataCache: Display: Performance to C:/Users/Jefferey Schlueter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=257.35MBs, RandomWriteSpeed=98.22MBs. Assigned SpeedClass 'Local'
+[2021.01.31-18.50.04:132][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jefferey Schlueter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.31-18.50.04:132][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.31-18.50.04:132][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.31-18.50.04:184][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.31-18.50.04:185][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.31-18.50.04:211][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.01.31-18.50.04:518][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.31-18.50.04:518][  0]LogInit: Active device profile: [000001FF521E9F00][000001FF4EFC3140 49] Windows
+[2021.01.31-18.50.04:518][  0]LogInit: Profiles: [000001FF521E9F00][000001FF4EFC3140 49] Windows, [000001FF52096600][000001FF4EFD12C0 49] WindowsNoEditor, [000001FF521E9000][000001FF4EFD5440 49] WindowsServer, [000001FF52097400][000001FF4EFD95C0 49] WindowsClient, [000001FF521E8200][000001FF4EFC7700 49] IOS, [000001FF52097F00][000001FF4EFDD840 49] iPadAir, [000001FF521EA800][000001FF4EFE1980 49] iPadAir2, [000001FF51EEAA00][000001FF4EFF3C00 49] IPadPro, [000001FF51EEAB00][000001FF4EFE5C40 49] iPadAir3, [000001FF52096D00][000001FF4EFFC100 49] iPadAir4, [000001FF51EEA500][000001FF4F000280 49] iPadMini2, [000001FF52095300][000001FF4F004400 49] iPadMini3, [000001FF51EE8E00][000001FF4F008580 49] iPadMini4, [000001FF52096700][000001FF4F00C700 49] iPadMini5, [000001FF51E5E200][000001FF4F0569C0 49] iPhone6, [000001FF51E5E300][000001FF4F010A00 49] iPodTouch6, [000001FF51EE9D00][000001FF4F10ECC0 49] iPhone7, [000001FF51EE9C00][000001FF4F0CED00 49] iPodTouch7, [000001FF51E5FC00][000001FF4F112E80 49] iPhone5S, [000001FF51EEB600][000001FF4F1E7000 49] iPhone6Plus, [000001FF51E5CF00][000001FF4F1EB180 49] iPhone6S, [000001FF51EEB700][000001FF4F1EF300 49] iPhone6SPlus, [000001FF51E5D700][000001FF4F1F3480 49] iPhone7Plus, [000001FF51EEB000][000001FF4F1F7600 49] iPhoneSE, [000001FF51E5F300][000001FF4EFEF740 49] iPhone8, [000001FF51EE8300][000001FF4F1FB880 49] iPhone8Plus, [000001FF51E5FF00][000001FF4F1FF9C0 49] iPhoneX, [000001FF51EEBA00][000001FF4F203B00 49] iPhoneXS, [000001FF51E5C500][000001FF4F20BC80 49] iPhoneXSMax, [000001FF51EEBE00][000001FF4F20E140 49] iPhoneXR, [000001FF51E5E800][000001FF4F2122C0 49] iPhone11, [000001FF51EE9800][000001FF4F216440 49] iPhone11Pro, [000001FF51E5D200][000001FF4F21A5C0 49] iPhone11ProMax, [000001FF51EEA700][000001FF4F21E740 49] iPhoneSE2, [000001FF51E5F800][000001FF4F2228C0 49] iPhone12Mini, [000001FF51EEA300][000001FF4F226A40 49] iPhone12, [000001FF51E5C200][000001FF4F22ABC0 49] iPhone12Pro, [000001FF51EEA200][000001FF4F22ED40 49] iPhone12ProMax, [000001FF51E5C100][000001FF4F232EC0 49] iPadPro105, [000001FF51EEA900][000001FF4F237040 49] iPadPro129, [000001FF51E5E400][000001FF4F23B1C0 49] iPadPro97, [000001FF51EE8C00][000001FF4F23F340 49] iPadPro2_129, [000001FF51E5CE00][000001FF4F2434C0 49] iPad5, [000001FF51EEB500][000001FF4F247640 49] iPad6, [000001FF521EA300][000001FF4F24B7C0 49] iPad7, [000001FF51EE8800][000001FF4F207900 49] iPad8, [000001FF521EAE00][000001FF4EA57A40 49] iPadPro11, [000001FF51EE9200][000001FF4EA5BB80 49] iPadPro2_11, [000001FF521E8E00][000001FF4EA63D00 49] iPadPro3_129, [000001FF51EEA000][000001FF4EA661C0 49] iPadPro4_129, [000001FF521E8100][000001FF4EA6A340 49] AppleTV, [000001FF51EEB100][000001FF4EA6E4C0 49] AppleTV4K, [000001FF521E8D00][000001FF4EA72640 49] TVOS, [000001FF51EE9300][000001FF4EA767C0 49] Mac, [000001FF521E9600][000001FF4EA7A940 49] MacClient, [000001FF51EE8B00][000001FF4EA7EAC0 49] MacNoEditor, [000001FF521E8B00][000001FF4EA82C40 49] MacServer, [000001FF51EEBF00][000001FF4EA86DC0 49] Linux, [000001FF521E9900][000001FF4EA8AF40 49] LinuxNoEditor, [000001FF51EE8900][000001FF4EA8F0C0 49] LinuxAArch64NoEditor, [000001FF521E9C00][000001FF4EA93240 49] LinuxClient, [000001FF51EE9700][000001FF4EA973C0 49] LinuxAArch64Client, [000001FF521EAB00][000001FF4EA9B540 49] LinuxServer, [000001FF51EE8100][000001FF4EA9F6C0 49] LinuxAArch64Server, [000001FF521E9A00][000001FF4EAA3840 49] Android, [000001FF51EEAE00][000001FF4EA5F980 49] Android_Low, [000001FF521E8400][000001FF4EAA7AC0 49] Android_Mid, [000001FF51EEB300][000001FF4EAABC00 49] Android_High, [000001FF521E9400][000001FF4EAB20C0 49] Android_Default, [000001FF51EEB800][000001FF4EAB6240 49] Android_Adreno4xx, [000001FF521E8F00][000001FF4EABA3C0 49] Android_Adreno5xx_Low, [000001FF51EE9000][000001FF4EABE540 49] Android_Adreno5xx, [000001FF521E9D00][000001FF4EAC26C0 49] Android_Adreno6xx, [000001FF51EE9500][000001FF4EAC6840 49] Android_Adreno6xx_Vulkan, [000001FF521E8600][000001FF4EACA9C0 49] Android_Mali_T6xx, [000001FF51EEBD00][000001FF4EACEB40 49] Android_Mali_T7xx, [000001FF521E9E00][000001FF4EAD2CC0 49] Android_Mali_T8xx, [000001FF51EE9B00][000001FF4EAD6E40 49] Android_Mali_G71, [000001FF521EAF00][000001FF4EADAFC0 49] Android_Mali_G72, [000001FF51EEBC00][000001FF4EADF140 49] Android_Mali_G72_Vulkan, [000001FF521EB400][000001FF4EAE32C0 49] Android_Mali_G76, [000001FF52095800][000001FF4EAE7440 49] Android_Mali_G76_Vulkan, [000001FF51E5D400][000001FF4EAEB5C0 49] Android_Mali_G77, [000001FF52094F00][000001FF4EAEF740 49] Android_Mali_G77_Vulkan, [000001FF51E5FB00][000001FF4EAF38C0 49] Android_Vulkan_SM5, [000001FF52096B00][000001FF4EAAFA00 49] Android_PowerVR_G6xxx, [000001FF51E5F400][000001FF4EAF7B40 49] Android_PowerVR_GT7xxx, [000001FF52094500][000001FF4EAFBC80 49] Android_PowerVR_GE8xxx, [000001FF51E5F700][000001FF4EAFE100 49] Android_PowerVR_GM9xxx, [000001FF52094900][000001FF4EB06280 49] Android_PowerVR_GM9xxx_Vulkan, [000001FF51E5F100][000001FF4EB0A400 49] Android_TegraK1, [000001FF52095700][000001FF4EB0E580 49] Android_Unknown_Vulkan, [000001FF51E5D800][000001FF4EB12700 49] Lumin, [000001FF52094E00][000001FF4EB16880 49] Lumin_Desktop, [000001FF51E5D500][000001FF4EB1AA00 49] HoloLens, 
+[2021.01.31-18.50.04:648][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.31-18.50.04:648][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.31-18.50.04:648][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.31-18.50.04:648][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.31-18.50.04:648][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.31-18.50.04:671][  0]LogNetVersion: GameJam2021 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4227290837)
+[2021.01.31-18.50.05:173][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.01.31-18.50.05:250][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.076490 seconds
+[2021.01.31-18.50.05:260][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.01.31-18.50.05:260][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.01.31-18.50.05:260][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.31-18.50.05:680][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.31-18.50.05:685][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.31-18.50.05:839][  0]SourceControl: Source control is disabled
+[2021.01.31-18.50.05:839][  0]SourceControl: Source control is disabled
+[2021.01.31-18.50.05:843][  0]SourceControl: Source control is disabled
+[2021.01.31-18.50.05:846][  0]SourceControl: Source control is disabled
+[2021.01.31-18.50.05:853][  0]SourceControl: Source control is disabled
+[2021.01.31-18.50.05:860][  0]LogUProjectInfo: Found projects:
+[2021.01.31-18.50.05:925][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.31-18.50.05:945][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.31-18.50.05:945][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.31-18.50.06:150][  0]LogCollectionManager: Loaded 0 collections in 0.002460 seconds
+[2021.01.31-18.50.06:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Collections/' took 0.00s
+[2021.01.31-18.50.06:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/Developers/JeffereySchlueter/Collections/' took 0.00s
+[2021.01.31-18.50.06:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/Collections/' took 0.00s
+[2021.01.31-18.50.06:179][  0]LogOcInput: OculusInput pre-init called
+[2021.01.31-18.50.06:192][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.31-18.50.06:192][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.31-18.50.06:251][  0]LogEngine: Initializing Engine...
+[2021.01.31-18.50.06:252][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.31-18.50.06:252][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.31-18.50.06:253][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.31-18.50.06:371][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.31-18.50.06:382][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.31-18.50.06:403][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.01.31-18.50.06:407][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.01.31-18.50.06:407][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.01.31-18.50.06:407][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.50.06:407][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.50.06:407][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.50.06:407][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.50.06:407][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.50.06:407][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.50.06:407][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.50.06:407][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.50.06:407][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.50.06:407][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.50.06:429][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.50.06:430][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.50.06:492][  0]LogAudioMixer: Display: Using Audio Device 1 - D40f-G9 (AMD High Definition Audio Device)
+[2021.01.31-18.50.06:492][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.50.06:494][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.50.06:494][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.50.06:495][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.50.06:495][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.50.06:495][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.50.06:496][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.50.06:496][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.50.06:496][  0]LogInit: FAudioDevice initialized.
+[2021.01.31-18.50.06:496][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.31-18.50.06:496][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.31-18.50.06:560][  0]LogDerivedDataCache: Saved boot cache 0.06s 77MB C:/Users/Jefferey Schlueter/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.31-18.50.06:567][  0]LogInit: Texture streaming: Enabled
+[2021.01.31-18.50.06:581][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.01.31-18.50.06:586][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.31-18.50.06:586][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.31-18.50.06:589][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.31-18.50.06:650][  0]LogInit: Transaction tracking system initialized
+[2021.01.31-18.50.06:672][  0]BlueprintLog: New page: Editor Load
+[2021.01.31-18.50.06:752][  0]LocalizationService: Localization service is disabled
+[2021.01.31-18.50.06:781][  0]TimingProfiler: Initialize
+[2021.01.31-18.50.06:781][  0]TimingProfiler: OnSessionChanged
+[2021.01.31-18.50.06:781][  0]LoadingProfiler: Initialize
+[2021.01.31-18.50.06:781][  0]LoadingProfiler: OnSessionChanged
+[2021.01.31-18.50.06:781][  0]NetworkingProfiler: Initialize
+[2021.01.31-18.50.06:781][  0]NetworkingProfiler: OnSessionChanged
+[2021.01.31-18.50.06:781][  0]MemoryProfiler: Initialize
+[2021.01.31-18.50.06:781][  0]MemoryProfiler: OnSessionChanged
+[2021.01.31-18.50.06:786][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2021.01.31-18.50.06:786][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2021.01.31-18.50.06:942][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.01.31-18.50.06:942][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.31-18.50.07:113][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/' took 0.01s
+[2021.01.31-18.50.07:281][  0]SourceControl: Source control is disabled
+[2021.01.31-18.50.07:427][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.31-18.50.22:249][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.01.31-18.50.22:249][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.31-18.50.22:252][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.31-18.50.22:259][  0]LogUnrealEdMisc: Loading editor; pre map load, took 21.474
+[2021.01.31-18.50.22:260][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Maps/house1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.31-18.50.22:260][  0]LightingResults: New page: Lighting Build
+[2021.01.31-18.50.22:261][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.50.22:261][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.50.22:261][  0]MapCheck: New page: Map Check
+[2021.01.31-18.50.22:262][  0]LightingResults: New page: Lighting Build
+[2021.01.31-18.50.22:268][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.01.31-18.50.22:349][  0]LogLinker: Warning: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Maps\house1.umap: Failed to load '/Game/FirstPersonBP/Maps/house1_BuiltData': Can't find file.
+[2021.01.31-18.50.22:350][  0]LogLinker: Warning: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Maps\house1.umap: Failed to load '/Game/FirstPersonBP/Maps/house1_BuiltData': Can't find file.
+[2021.01.31-18.50.22:363][  0]LogLinker: Warning: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Maps\house1.umap: Failed to load '/Game/FirstPersonBP/Maps/house1_BuiltData': Can't find file.
+[2021.01.31-18.50.22:477][  0]LogTexture: Display: Building textures: prop_LaundryHamper_prop_laundryhamper_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.22:478][  0]LogLinker: Warning: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Maps\house1.umap: Failed to load '/Game/FirstPersonBP/Maps/house1_BuiltData': Can't find file.
+[2021.01.31-18.50.22:478][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/house1_BuiltData.house1_BuiltData Referenced by PersistentLevel
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: prop_fridge_prop_fridge_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: prop_light_prop_light_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: prop_LaundryHamper_prop_laundryhamper_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: prop_fridge_prop_fridge_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: prop_light_prop_light_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: prop_dryer_prop_dryer_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: prop_LaundryHamper_prop_laundryhamper_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: prop_light_prop_light_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: prop_fridge_prop_fridge_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: prop_dryer_prop_dryer_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: paintWall_01_roughness (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: paintWall_01_normal (BC5, 1024X1024)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: paintWall_01_ambientocclusion (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: paintWall_01_metallic (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: paintWall_01_basecolor (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: paintWall_01_height (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: tileFloor_metallic (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:996][  0]LogTexture: Display: Building textures: tileFloor_ambientocclusion (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: tileFloor_height (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: tileFloor_basecolor (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: tileFloor_roughness (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: tileFloor_normal (BC5, 1024X1024)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: wood_basecolor (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: wood_ambientocclusion (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: wood_height (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_coffeetable_prop_coffeetable_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_coffeetable_prop_coffeetable_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_can_prop_can_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_countertop_prop_coutertop_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_can_prop_can_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_countertop_prop_coutertop_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_countertop_prop_coutertop_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_coffeetable_prop_coffeetable_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_pingpongtable_prop_pingpongtable_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_pingpongtable_prop_pingpongtable_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_pingpongtable_prop_pingpongtable_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_mainlight_prop_mainlight_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_mainlight_prop_mainlight_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_mainlight_prop_mainlight_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: wood_metallic (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: wood_roughness (AutoDXT, 1024X1024)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: wood_normal (BC5, 1024X1024)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_bed_prop_bed_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogTexture: Display: Building textures: prop_winebox_prop_winebox_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.29:997][  0]LogMaterial: Display: Missing cached shader map for material m_hamper, compiling. 
+[2021.01.31-18.50.30:138][  0]LogTexture: Display: Building textures: prop_winebox_prop_winebox_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.30:138][  0]LogStaticMesh: Building static mesh prop_LaundryHamper...
+[2021.01.31-18.50.30:153][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.01.31-18.50.30:153][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.01.31-18.50.30:153][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.01.31-18.50.30:153][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.31-18.50.30:153][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.31-18.50.30:153][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.31-18.50.30:153][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-18.50.30:153][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_LaundryHamper.prop_LaundryHamper
+[2021.01.31-18.50.30:155][  0]LogStaticMesh: Building static mesh prop_gauge_A...
+[2021.01.31-18.50.30:185][  0]LogStaticMesh: Built static mesh [0.03s] /Game/myShit/geo/prop_gauge_A.prop_gauge_A
+[2021.01.31-18.50.30:187][  0]LogMaterial: Display: Missing cached shader map for material m_lightBoob, compiling. 
+[2021.01.31-18.50.30:204][  0]LogStaticMesh: Building static mesh prop_light...
+[2021.01.31-18.50.30:226][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_light.prop_light
+[2021.01.31-18.50.30:541][  0]LogTexture: Display: Building textures: prop_winebox_prop_winebox_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.30:541][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.01.31-18.50.30:541][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 18
+[2021.01.31-18.50.30:541][  0]LogMaterial: Display: Missing cached shader map for material m_fridge, compiling. 
+[2021.01.31-18.50.30:559][  0]LogStaticMesh: Building static mesh prop_fridge...
+[2021.01.31-18.50.30:569][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_fridge.prop_fridge
+[2021.01.31-18.50.30:572][  0]LogMaterial: Display: Missing cached shader map for material m_paintWall_blue, compiling. 
+[2021.01.31-18.50.30:600][  0]LogMaterial: Display: Missing cached shader map for material m_ceiling, compiling. 
+[2021.01.31-18.50.30:616][  0]LogMaterial: Display: Missing cached shader map for material m_paintWall_yellow, compiling. 
+[2021.01.31-18.50.30:644][  0]LogMaterial: Display: Missing cached shader map for material m_paintWall_green, compiling. 
+[2021.01.31-18.50.30:662][  0]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-18.50.30:685][  0]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-18.50.30:708][  0]LogMaterial: Display: Missing cached shader map for material m_woodFloor, compiling. 
+[2021.01.31-18.50.30:732][  0]LogTexture: Display: Building textures: prop_winebottle_prop_winebottle_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.30:732][  0]LogStaticMesh: Building static mesh prop_coffeetable...
+[2021.01.31-18.50.30:746][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_coffeetable.prop_coffeetable
+[2021.01.31-18.50.34:791][  0]LogTexture: Display: Building textures: prop_winebottle_prop_winebottle_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.34:791][  0]LogTexture: Display: Building textures: prop_winebottle_prop_winebottle_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.34:791][  0]LogTexture: Display: Building textures: prop_wastebin_prop_wastebin_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.34:791][  0]LogTexture: Display: Building textures: prop_wastebin_prop_wastebin_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.34:791][  0]LogTexture: Display: Building textures: prop_wastebin_prop_wastebin_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.34:791][  0]LogTexture: Display: Building textures: prop_washer_prop_washer_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.34:792][  0]LogTexture: Display: Building textures: prop_washer_prop_washer_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.34:792][  0]LogMaterial: Display: Missing cached shader map for material m_coffeeTable, compiling. 
+[2021.01.31-18.50.34:811][  0]LogStaticMesh: Building static mesh prop_door...
+[2021.01.31-18.50.34:828][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_door.prop_door
+[2021.01.31-18.50.34:831][  0]LogMaterial: Display: Missing cached shader map for material m_counterTop, compiling. 
+[2021.01.31-18.50.34:861][  0]LogStaticMesh: Building static mesh prop_countertop...
+[2021.01.31-18.50.34:868][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_countertop.prop_countertop
+[2021.01.31-18.50.34:871][  0]LogStaticMesh: Building static mesh prop_pipe_A...
+[2021.01.31-18.50.34:873][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 225
+[2021.01.31-18.50.34:874][  0]LogStaticMesh: Built static mesh [0.00s] /Game/myShit/geo/prop_pipe_A.prop_pipe_A
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_washer_prop_washer_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 215
+[2021.01.31-18.50.42:633][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 205
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_TP_prop_tp_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 195
+[2021.01.31-18.50.42:633][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 185
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_TP_prop_tp_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_TP_prop_tp_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_towelrack_prop_steelbar_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_towelrack_prop_steelbar_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_towelrack_prop_steelbar_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_towelrack_prop_towel_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_towelrack_prop_towel_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_towelrack_prop_towel_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_toilet_prop_toilet_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_toilet_prop_toilet_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_toilet_prop_toilet_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 175
+[2021.01.31-18.50.42:633][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 165
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_table_prop_table_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_table_prop_table_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_table_prop_table_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_stringlights_prop_stringlights_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 155
+[2021.01.31-18.50.42:633][  0]LogTexture: Display: Building textures: prop_stringlights_prop_stringlights_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.42:633][  0]LogMaterial: Display: Missing cached shader map for material m_pingPong, compiling. 
+[2021.01.31-18.50.42:650][  0]LogStaticMesh: Building static mesh prop_pingpongtable...
+[2021.01.31-18.50.42:672][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_pingpongtable.prop_pingpongtable
+[2021.01.31-18.50.42:679][  0]LogMaterial: Display: Missing cached shader map for material m_light, compiling. 
+[2021.01.31-18.50.42:707][  0]LogStaticMesh: Building static mesh prop_mainlight...
+[2021.01.31-18.50.42:722][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_mainlight.prop_mainlight
+[2021.01.31-18.50.42:723][  0]LogStaticMesh: Building static mesh prop_bed...
+[2021.01.31-18.50.42:763][  0]LogStaticMesh: Built static mesh [0.04s] /Game/myShit/geo/prop_bed.prop_bed
+[2021.01.31-18.50.44:809][  0]LogTexture: Display: Building textures: prop_stool_prop_stool_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.44:809][  0]LogTexture: Display: Building textures: prop_stringlights_prop_stringlights_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.44:809][  0]LogTexture: Display: Building textures: prop_stool_prop_stool_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.44:809][  0]LogTexture: Display: Building textures: prop_stool_prop_stool_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.44:809][  0]LogTexture: Display: Building textures: prop_sink_prop_sink_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.44:809][  0]LogTexture: Display: Building textures: prop_bed_prop_bed_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.45:449][  0]LogTexture: Display: Building textures: prop_sink_prop_sink_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.45:449][  0]LogTexture: Display: Building textures: prop_sink_prop_sink_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.45:583][  0]LogTexture: Display: Building textures: prop_bed_prop_bed_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.49:316][  0]LogTexture: Display: Building textures: prop_simpledesk_prop_simpledesk_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.49:316][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 187
+[2021.01.31-18.50.49:316][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 177
+[2021.01.31-18.50.49:316][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 167
+[2021.01.31-18.50.49:316][  0]LogTexture: Display: Building textures: prop_simpledesk_prop_simpledesk_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.49:316][  0]LogTexture: Display: Building textures: prop_simpledesk_prop_simpledesk_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.49:319][  0]LogMaterial: Display: Missing cached shader map for material m_bed, compiling. 
+[2021.01.31-18.50.49:341][  0]LogMaterial: Display: Missing cached shader map for material m_wineBox, compiling. 
+[2021.01.31-18.50.49:361][  0]LogStaticMesh: Building static mesh prop_winebox...
+[2021.01.31-18.50.49:379][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_winebox.prop_winebox
+[2021.01.31-18.50.49:384][  0]LogMaterial: Display: Missing cached shader map for material m_wine, compiling. 
+[2021.01.31-18.50.49:403][  0]LogStaticMesh: Building static mesh prop_winebottle...
+[2021.01.31-18.50.49:425][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_winebottle.prop_winebottle
+[2021.01.31-18.50.49:428][  0]LogMaterial: Display: Missing cached shader map for material m_wastebin, compiling. 
+[2021.01.31-18.50.49:445][  0]LogStaticMesh: Building static mesh prop_wastebin...
+[2021.01.31-18.50.49:457][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_wastebin.prop_wastebin
+[2021.01.31-18.50.49:459][  0]LogMaterial: Display: Missing cached shader map for material m_washer, compiling. 
+[2021.01.31-18.50.49:477][  0]LogStaticMesh: Building static mesh prop_washer...
+[2021.01.31-18.50.49:481][  0]LogStaticMesh: Built static mesh [0.00s] /Game/myShit/geo/prop_washer.prop_washer
+[2021.01.31-18.50.55:035][  0]LogTexture: Display: Building textures: prop_simplechair_prop_simplechair_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.55:036][  0]LogTexture: Display: Building textures: prop_simplechair_prop_simplechair_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.55:036][  0]LogTexture: Display: Building textures: prop_simplechair_prop_simplechair_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.55:036][  0]LogTexture: Display: Building textures: prop_showertub_prop_showerandtub_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.55:036][  0]LogTexture: Display: Building textures: prop_showertub_prop_showerandtub_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.55:036][  0]LogTexture: Display: Building textures: prop_showertub_prop_showerandtub_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.55:036][  0]LogTexture: Display: Building textures: prop_showermat_prop_bathmat_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.55:036][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 262
+[2021.01.31-18.50.55:036][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 252
+[2021.01.31-18.50.55:036][  0]LogMaterial: Display: Missing cached shader map for material m_TP, compiling. 
+[2021.01.31-18.50.55:053][  0]LogStaticMesh: Building static mesh prop_TP...
+[2021.01.31-18.50.55:064][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_TP.prop_TP
+[2021.01.31-18.50.55:067][  0]LogMaterial: Display: Missing cached shader map for material m_towelRack, compiling. 
+[2021.01.31-18.50.55:096][  0]LogMaterial: Display: Missing cached shader map for material m_towel, compiling. 
+[2021.01.31-18.50.55:116][  0]LogStaticMesh: Building static mesh prop_towelrack...
+[2021.01.31-18.50.55:173][  0]LogTexture: Display: Building textures: prop_showermat_prop_bathmat_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.55:173][  0]LogStaticMesh: Built static mesh [0.06s] /Game/myShit/geo/prop_towelrack.prop_towelrack
+[2021.01.31-18.50.58:560][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 305
+[2021.01.31-18.50.58:560][  0]LogTexture: Display: Building textures: prop_showermat_prop_bathmat_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.58:561][  0]LogTexture: Display: Building textures: prop_shortstool_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.50.58:561][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 295
+[2021.01.31-18.50.58:561][  0]LogTexture: Display: Building textures: prop_shortstool_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.50.58:561][  0]LogTexture: Display: Building textures: prop_shortstool_lambert1_Normal (BC5, 2048X2048)
+[2021.01.31-18.50.58:561][  0]LogMaterial: Display: Missing cached shader map for material m_toilet, compiling. 
+[2021.01.31-18.50.58:581][  0]LogStaticMesh: Building static mesh prop_toilet...
+[2021.01.31-18.50.58:601][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_toilet.prop_toilet
+[2021.01.31-18.51.01:461][  0]LogTexture: Display: Building textures: prop_radiator_prop_radiator_OcclusionRoughnessMetallic (BC5, 2048X2048)
+[2021.01.31-18.51.01:461][  0]LogTexture: Display: Building textures: prop_radiator_prop_radiator_Normal (BC5, 2048X2048)
+[2021.01.31-18.51.01:461][  0]LogTexture: Display: Building textures: prop_radiator_prop_radiator_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.51.01:461][  0]LogTexture: Display: Building textures: prop_cabinet_prop_cabinet_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.01.31-18.51.01:461][  0]LogTexture: Display: Building textures: prop_dryer_prop_dryer_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.51.01:461][  0]LogTexture: Display: Building textures: prop_cabinet_prop_cabinet_Normal (BC5, 2048X2048)
+[2021.01.31-18.51.01:461][  0]LogTexture: Display: Building textures: prop_can_prop_can_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.51.01:461][  0]LogMaterial: Display: Missing cached shader map for material m_table, compiling. 
+[2021.01.31-18.51.01:480][  0]LogStaticMesh: Building static mesh prop_table...
+[2021.01.31-18.51.01:493][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_table.prop_table
+[2021.01.31-18.51.01:496][  0]LogMaterial: Display: Missing cached shader map for material m_stringLight, compiling. 
+[2021.01.31-18.51.01:527][  0]LogStaticMesh: Building static mesh prop_stringlights...
+[2021.01.31-18.51.01:562][  0]LogStaticMesh: Built static mesh [0.04s] /Game/myShit/geo/prop_stringlights.prop_stringlights
+[2021.01.31-18.51.01:568][  0]LogMaterial: Display: Missing cached shader map for material m_stool, compiling. 
+[2021.01.31-18.51.01:591][  0]LogStaticMesh: Building static mesh prop_stool...
+[2021.01.31-18.51.01:599][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_stool.prop_stool
+[2021.01.31-18.51.01:600][  0]LogStaticMesh: Building static mesh prop_stairs_B...
+[2021.01.31-18.51.01:616][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_stairs_B.prop_stairs_B
+[2021.01.31-18.51.01:618][  0]LogStaticMesh: Building static mesh prop_stairs_A...
+[2021.01.31-18.51.01:633][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_stairs_A.prop_stairs_A
+[2021.01.31-18.51.01:638][  0]LogMaterial: Display: Missing cached shader map for material m_sink, compiling. 
+[2021.01.31-18.51.01:657][  0]LogStaticMesh: Building static mesh prop_sink...
+[2021.01.31-18.51.01:671][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_sink.prop_sink
+[2021.01.31-18.51.01:674][  0]LogMaterial: Display: Missing cached shader map for material m_desk, compiling. 
+[2021.01.31-18.51.01:697][  0]LogStaticMesh: Building static mesh prop_simpledesk...
+[2021.01.31-18.51.01:710][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_simpledesk.prop_simpledesk
+[2021.01.31-18.51.01:714][  0]LogMaterial: Display: Missing cached shader map for material m_chair, compiling. 
+[2021.01.31-18.51.01:743][  0]LogStaticMesh: Building static mesh prop_simplechair...
+[2021.01.31-18.51.01:760][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_simplechair.prop_simplechair
+[2021.01.31-18.51.02:362][  0]LogTexture: Display: Building textures: prop_cabinet_prop_cabinet_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.51.02:362][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 432
+[2021.01.31-18.51.02:362][  0]LogMaterial: Display: Missing cached shader map for material m_tub, compiling. 
+[2021.01.31-18.51.02:379][  0]LogStaticMesh: Building static mesh prop_showertub...
+[2021.01.31-18.51.02:411][  0]LogStaticMesh: Built static mesh [0.03s] /Game/myShit/geo/prop_showertub.prop_showertub
+[2021.01.31-18.51.04:956][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 443
+[2021.01.31-18.51.04:956][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 433
+[2021.01.31-18.51.04:956][  0]LogMaterial: Display: Missing cached shader map for material m_bathmat, compiling. 
+[2021.01.31-18.51.04:976][  0]LogStaticMesh: Building static mesh prop_showermat...
+[2021.01.31-18.51.04:981][  0]LogStaticMesh: Built static mesh [0.00s] /Game/myShit/geo/prop_showermat.prop_showermat
+[2021.01.31-18.51.06:282][  0]LogMaterial: Display: Missing cached shader map for material m_shortStool, compiling. 
+[2021.01.31-18.51.06:302][  0]LogStaticMesh: Building static mesh prop_shortstool...
+[2021.01.31-18.51.06:313][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_shortstool.prop_shortstool
+[2021.01.31-18.51.06:314][  0]LogStaticMesh: Building static mesh prop_rail_B...
+[2021.01.31-18.51.06:332][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_rail_B.prop_rail_B
+[2021.01.31-18.51.06:334][  0]LogStaticMesh: Building static mesh prop_rail_A...
+[2021.01.31-18.51.06:355][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_rail_A.prop_rail_A
+[2021.01.31-18.51.07:462][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 465
+[2021.01.31-18.51.07:462][  0]LogMaterial: Display: Missing cached shader map for material m_radiator, compiling. 
+[2021.01.31-18.51.07:478][  0]LogStaticMesh: Building static mesh prop_radiator...
+[2021.01.31-18.51.07:500][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_radiator.prop_radiator
+[2021.01.31-18.51.07:503][  0]LogStaticMesh: Building static mesh prop_pipe_D...
+[2021.01.31-18.51.07:523][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_pipe_D.prop_pipe_D
+[2021.01.31-18.51.07:525][  0]LogStaticMesh: Building static mesh prop_pipe_C...
+[2021.01.31-18.51.07:542][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_pipe_C.prop_pipe_C
+[2021.01.31-18.51.07:544][  0]LogStaticMesh: Building static mesh prop_Pipe_B...
+[2021.01.31-18.51.07:545][  0]LogStaticMesh: Built static mesh [0.00s] /Game/myShit/geo/prop_Pipe_B.prop_Pipe_B
+[2021.01.31-18.51.07:714][  0]LogMaterial: Display: Missing cached shader map for material m_dryer, compiling. 
+[2021.01.31-18.51.07:736][  0]LogStaticMesh: Building static mesh prop_dryer...
+[2021.01.31-18.51.07:745][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_dryer.prop_dryer
+[2021.01.31-18.51.07:747][  0]LogStaticMesh: Building static mesh prop_doorframe...
+[2021.01.31-18.51.07:764][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_doorframe.prop_doorframe
+[2021.01.31-18.51.07:767][  0]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.01.31-18.51.07:813][  0]LogStaticMesh: Building static mesh prop_boxmirror...
+[2021.01.31-18.51.07:822][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_boxmirror.prop_boxmirror
+[2021.01.31-18.51.07:823][  0]LogStaticMesh: Building static mesh prop_cabinet...
+[2021.01.31-18.51.07:834][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_cabinet.prop_cabinet
+[2021.01.31-18.51.07:836][  0]LogStaticMesh: Building static mesh prop_can...
+[2021.01.31-18.51.07:853][  0]LogStaticMesh: Built static mesh [0.02s] /Game/myShit/geo/prop_can.prop_can
+[2021.01.31-18.51.07:857][  0]LogStaticMesh: Building static mesh prop_boiler...
+[2021.01.31-18.51.07:895][  0]LogStaticMesh: Built static mesh [0.04s] /Game/myShit/geo/prop_boiler.prop_boiler
+[2021.01.31-18.51.07:897][  0]LogStaticMesh: Building static mesh prop_box_A...
+[2021.01.31-18.51.07:903][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_box_A.prop_box_A
+[2021.01.31-18.51.07:905][  0]LogStaticMesh: Building static mesh prop_box_B...
+[2021.01.31-18.51.07:917][  0]LogStaticMesh: Built static mesh [0.01s] /Game/myShit/geo/prop_box_B.prop_box_B
+[2021.01.31-18.51.07:921][  0]LogMaterial: Display: Missing cached shader map for material m_can, compiling. 
+[2021.01.31-18.51.07:954][  0]LogMaterial: Display: Missing cached shader map for material m_cabinet, compiling. 
+[2021.01.31-18.51.07:988][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'house1'.
+[2021.01.31-18.51.07:991][  0]LogAIModule: Creating AISystem for world house1
+[2021.01.31-18.51.08:099][  0]LogShaderCompilers: Warning: Failed to compile Material /Game/myShit/mat/m_paintWall_yellow.m_paintWall_yellow for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.31-18.51.08:099][  0]LogShaderCompilers: Display: 	D3DCompile exception
+[2021.01.31-18.51.08:169][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.31-18.51.08:193][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.01.31-18.51.08:252][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.31-18.51.08:253][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.397ms to complete.
+[2021.01.31-18.51.08:253][  0]LogFileHelpers: Loading map 'house1' took 45.992
+[2021.01.31-18.51.08:256][  0]LogUnrealEdMisc: Total Editor Startup Time, took 67.471
+[2021.01.31-18.51.08:421][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.51.08:434][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.51.08:448][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.51.08:463][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.51.08:496][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0239 seconds. Added 3601 classes and 859 folders.
+[2021.01.31-18.51.08:502][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.01.31-18.51.08:506][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.31-18.51.08:506][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:506][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.31-18.51.08:506][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.01.31-18.51.08:508][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.31-18.51.08:508][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:508][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.31-18.51.08:508][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.01.31-18.51.08:511][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.01.31-18.51.08:511][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.01.31-18.51.08:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.01.31-18.51.08:512][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-18.51.08:512][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:512][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.31-18.51.08:513][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.01.31-18.51.08:514][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.31-18.51.08:514][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:514][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.31-18.51.08:514][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.01.31-18.51.08:515][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.31-18.51.08:515][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:515][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.31-18.51.08:515][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.01.31-18.51.08:517][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.31-18.51.08:517][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:517][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.31-18.51.08:517][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.01.31-18.51.08:518][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.31-18.51.08:518][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:518][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.31-18.51.08:518][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.01.31-18.51.08:520][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.31-18.51.08:520][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:520][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.31-18.51.08:520][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.01.31-18.51.08:521][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.31-18.51.08:521][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:521][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.31-18.51.08:521][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.01.31-18.51.08:522][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.31-18.51.08:522][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:522][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.31-18.51.08:522][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2021.01.31-18.51.08:523][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.31-18.51.08:523][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:523][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.31-18.51.08:523][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.01.31-18.51.08:524][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-18.51.08:524][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:524][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.31-18.51.08:524][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2021.01.31-18.51.08:525][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.31-18.51.08:525][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:525][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.31-18.51.08:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2021.01.31-18.51.08:526][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.31-18.51.08:526][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:526][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.31-18.51.08:526][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2021.01.31-18.51.08:527][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.31-18.51.08:527][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:527][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.31-18.51.08:527][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2021.01.31-18.51.08:528][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.31-18.51.08:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.31-18.51.08:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2021.01.31-18.51.08:529][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.31-18.51.08:529][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:529][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.31-18.51.08:529][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2021.01.31-18.51.08:530][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-18.51.08:530][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:530][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.31-18.51.08:530][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2021.01.31-18.51.08:531][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-18.51.08:531][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:531][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.31-18.51.08:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000121
+[2021.01.31-18.51.08:532][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.31-18.51.08:532][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:532][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.31-18.51.08:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000129
+[2021.01.31-18.51.08:534][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.31-18.51.08:534][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:535][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.31-18.51.08:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000138
+[2021.01.31-18.51.08:536][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.01.31-18.51.08:536][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:536][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.01.31-18.51.08:536][  0]LogPakFile: OnPakFileMounted2Time == 0.000145
+[2021.01.31-18.51.08:538][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.31-18.51.08:538][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:538][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.31-18.51.08:538][  0]LogPakFile: OnPakFileMounted2Time == 0.000155
+[2021.01.31-18.51.08:539][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-18.51.08:539][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:539][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.31-18.51.08:539][  0]LogPakFile: OnPakFileMounted2Time == 0.000156
+[2021.01.31-18.51.08:540][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.31-18.51.08:540][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.51.08:540][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.31-18.51.08:540][  0]LogPakFile: OnPakFileMounted2Time == 0.000157
+[2021.01.31-18.51.08:659][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.01.31-18.51.08:662][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2021.01.31-18.51.09:554][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 560
+[2021.01.31-18.51.09:554][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.31-18.51.09:674][  0]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.31-18.51.09:682][  0]LogSlate: Took 0.000406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.31-18.51.09:825][  0]LogRenderer: Reallocating scene render targets to support 1208x648 Format 10 NumSamples 1 (Frame:1).
+[2021.01.31-18.51.13:176][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 550
+[2021.01.31-18.51.13:176][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 540
+[2021.01.31-18.51.13:176][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 530
+[2021.01.31-18.51.13:176][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 520
+[2021.01.31-18.51.13:176][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 510
+[2021.01.31-18.51.13:176][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 500
+[2021.01.31-18.51.13:176][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 490
+[2021.01.31-18.51.13:186][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.01.31-18.51.13:186][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.01.31-18.51.13:186][  0]LogInput: Warning: Action Fire uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.01.31-18.51.13:186][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.01.31-18.51.13:186][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.01.31-18.51.13:186][  0]LogLoad: (Engine Initialization) Total time: 72.40 seconds
+[2021.01.31-18.51.13:186][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.31-18.51.13:186][  0]LogInit: First time updating LLM stats...
+[2021.01.31-18.51.13:345][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.31-18.51.13:467][  0]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.31-18.51.13:493][  1]LogAssetRegistry: Asset discovery search completed in 69.2830 seconds
+[2021.01.31-18.51.13:496][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.01.31-18.51.13:711][  2]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.31-18.51.14:411][  8]LogSlate: Took 0.000489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.31-18.51.15:481][ 41]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 480
+[2021.01.31-18.51.18:474][121]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 470
+[2021.01.31-18.51.18:505][122]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/' took 5.29s
+[2021.01.31-18.51.18:696][130]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 460
+[2021.01.31-18.51.18:781][133]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 450
+[2021.01.31-18.51.19:242][151]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 440
+[2021.01.31-18.51.19:356][156]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 430
+[2021.01.31-18.51.20:092][189]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 420
+[2021.01.31-18.51.20:876][216]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 410
+[2021.01.31-18.51.23:691][341]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 400
+[2021.01.31-18.51.25:915][440]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 390
+[2021.01.31-18.51.26:202][450]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 380
+[2021.01.31-18.51.26:404][454]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 370
+[2021.01.31-18.51.26:748][466]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 360
+[2021.01.31-18.51.27:674][505]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 350
+[2021.01.31-18.51.28:217][527]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 340
+[2021.01.31-18.51.28:691][548]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 330
+[2021.01.31-18.51.31:820][627]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 320
+[2021.01.31-18.51.33:594][688]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 310
+[2021.01.31-18.51.34:028][707]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 300
+[2021.01.31-18.51.34:671][736]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 290
+[2021.01.31-18.51.34:883][745]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 280
+[2021.01.31-18.51.35:549][777]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 270
+[2021.01.31-18.51.36:060][802]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 260
+[2021.01.31-18.51.36:384][815]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 250
+[2021.01.31-18.51.39:156][941]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 240
+[2021.01.31-18.51.41:331][ 33]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 230
+[2021.01.31-18.51.41:638][ 49]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 220
+[2021.01.31-18.51.42:195][ 72]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 210
+[2021.01.31-18.51.42:644][ 91]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 200
+[2021.01.31-18.51.43:081][113]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 190
+[2021.01.31-18.51.43:586][136]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 180
+[2021.01.31-18.51.44:318][168]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 170
+[2021.01.31-18.51.46:161][250]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 160
+[2021.01.31-18.51.49:015][389]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 150
+[2021.01.31-18.51.49:051][389]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/PlayerCounterDownTimer.PlayerCounterDownTimer
+[2021.01.31-18.51.49:285][389]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0026 seconds. Added 126 classes and 0 folders.
+[2021.01.31-18.51.51:004][389]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 140
+[2021.01.31-18.51.51:004][389]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 130
+[2021.01.31-18.51.51:004][389]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 120
+[2021.01.31-18.51.51:004][389]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 110
+[2021.01.31-18.51.51:788][389]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 100
+[2021.01.31-18.51.51:788][389]LogSlate: Took 0.000518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.31-18.51.52:376][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 90
+[2021.01.31-18.51.54:262][486]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 80
+[2021.01.31-18.51.56:998][597]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 70
+[2021.01.31-18.51.57:502][616]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 61
+[2021.01.31-18.51.57:741][626]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 53
+[2021.01.31-18.51.58:357][651]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 46
+[2021.01.31-18.51.58:451][655]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 40
+[2021.01.31-18.51.59:697][707]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2021.01.31-18.52.00:402][727]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2021.01.31-18.52.02:484][801]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.01.31-18.52.02:485][801]BlueprintLog: New page: Compile PlayerCounterDownTimer
+[2021.01.31-18.52.02:604][801]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2021.01.31-18.52.02:963][808]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.01.31-18.52.03:112][812]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.01.31-18.52.03:204][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.01.31-18.52.03:434][820]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.31-18.52.03:878][833]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.01.31-18.52.04:009][834]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-18.52.04:009][834]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.31-18.52.04:901][866]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.01.31-18.52.04:928][867]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.01.31-18.52.04:970][869]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.31-18.52.05:481][886]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-18.52.05:509][887]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.31-18.52.05:578][889]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.31-18.52.05:744][896]LogSlate: Window 'PlayerCounterDownTimer' being destroyed
+[2021.01.31-18.52.05:764][896]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.52.05:764][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.52.05:789][896]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.52.05:790][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.52.08:084][ 11]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-18.52.08:089][ 11]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-18.52.10:238][212]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.52.10:251][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.52.10:251][212]PIE: New page: PIE session: house1 (Jan 31, 2021, 8:52:10 AM)
+[2021.01.31-18.52.10:253][212]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.31-18.52.10:254][212]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.31-18.52.10:254][212]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-18.52.10:280][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026342s)
+[2021.01.31-18.52.10:281][212]LogAIModule: Creating AISystem for world house1
+[2021.01.31-18.52.10:281][212]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2021.01.31-18.52.10:281][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/house1.house1 to /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 (0.027616s)
+[2021.01.31-18.52.10:331][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.01.31-18.52.10:333][212]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.01.31-18.52.10:333][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.52.10:333][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.52.10:333][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.52.10:333][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.52.10:333][212]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.52.10:333][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.52.10:333][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.52.10:333][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.52.10:333][212]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.52.10:333][212]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.52.10:340][212]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.52.10:340][212]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.52.10:353][212]LogAudioMixer: Display: Using Audio Device 1 - D40f-G9 (AMD High Definition Audio Device)
+[2021.01.31-18.52.10:353][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.52.10:353][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.52.10:353][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.52.10:354][212]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.52.10:354][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.52.10:354][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.52.10:368][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.52.10:368][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.52.10:368][212]LogInit: FAudioDevice initialized.
+[2021.01.31-18.52.10:368][212]LogAudio: Display: Audio Device (ID: 2) registered with world 'house1'.
+[2021.01.31-18.52.10:585][212]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.31-18.52.10:593][212]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 up for play (max tick rate 0) at 2021.01.31-13.52.10
+[2021.01.31-18.52.10:593][212]LogWorld: Bringing up level for play took: 0.007252
+[2021.01.31-18.52.10:593][212]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.01.31-18.52.10:601][212]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.01.31-18.52.10:603][212]LogScript: Warning: Accessed None trying to read property CallFunc_GetTimerWidget_Widget
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00AB
+[2021.01.31-18.52.10:603][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetTimerWidget_Widget". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-18.52.10:603][212]LogScript: Warning: Attempted to assign to None
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00C0
+[2021.01.31-18.52.10:603][212]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-18.52.10:604][212]PIE: Server logged in
+[2021.01.31-18.52.10:606][212]PIE: Play in editor total start time 0.356 seconds.
+[2021.01.31-18.52.53:547][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.52.53:547][115]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-18.52.53:547][115]LogWorld: UWorld::CleanupWorld for house1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.52.53:548][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.52.53:557][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.52.53:563][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.52.53:577][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-18.52.53:579][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.52.53:580][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.52.53:596][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.52.53:667][115]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.01.31-18.52.53:793][116]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.01.31-18.52.55:431][203]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-18.52.55:452][203]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-18.52.59:546][430]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController
+[2021.01.31-18.53.00:320][431]LogSlate: Took 0.000386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.31-18.53.11:783][112]LogRenderer: Reallocating scene render targets to support 1208x748 Format 10 NumSamples 1 (Frame:1).
+[2021.01.31-18.53.14:215][248]LogSlate: Window 'OurGamesController' being destroyed
+[2021.01.31-18.53.23:437][704]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/pickupable2.pickupable2
+[2021.01.31-18.53.40:636][513]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Pickupable.Pickupable
+[2021.01.31-18.54.17:948][213]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.31-18.54.22:964][642]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.31-18.55.29:866][706]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.31-18.55.37:746][223]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BikeLockPuzzle.BikeLockPuzzle
+[2021.01.31-18.55.49:673][507]LogSlate: Took 0.006307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.01.31-18.55.52:774][847]BlueprintLog: New page: Compile BikeLockPuzzle
+[2021.01.31-18.55.52:843][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.01.31-18.55.58:100][445]BlueprintLog: New page: Compile BikeLockPuzzle
+[2021.01.31-18.55.58:143][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.01.31-18.55.58:858][520]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/BikeLockPuzzleF2A8CD874EEFF01E1AC063B9E852D36C.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/BikeLockPuzzle.uasset'
+[2021.01.31-18.55.58:875][520]AssetCheck: New page: Asset Save: BikeLockPuzzle
+[2021.01.31-18.55.58:875][520]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BikeLockPuzzle.BikeLockPuzzle
+[2021.01.31-18.56.11:510][953]BlueprintLog: New page: Compile BikeLockPuzzle
+[2021.01.31-18.56.11:554][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.01.31-18.56.12:620][ 66]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/BikeLockPuzzleDE8ED7F5451F8C89A93CA2AA0E0D4DF5.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/BikeLockPuzzle.uasset'
+[2021.01.31-18.56.12:635][ 66]AssetCheck: New page: Asset Save: BikeLockPuzzle
+[2021.01.31-18.56.12:635][ 66]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BikeLockPuzzle.BikeLockPuzzle
+[2021.01.31-18.57.04:241][961]BlueprintLog: New page: Compile BikeLockPuzzle
+[2021.01.31-18.57.04:321][961]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.01.31-18.57.20:120][698]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.31-18.57.26:705][373]BlueprintLog: New page: Compile BikeLockPuzzle
+[2021.01.31-18.57.26:776][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.01.31-18.57.27:320][415]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/BikeLockPuzzle80232B164FB51A6EDE71A4AE73B245A8.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/BikeLockPuzzle.uasset'
+[2021.01.31-18.57.27:371][415]AssetCheck: New page: Asset Save: BikeLockPuzzle
+[2021.01.31-18.57.27:371][415]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BikeLockPuzzle.BikeLockPuzzle
+[2021.01.31-18.57.37:045][ 17]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.02.13:372][758]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.02.13:424][758]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.01.31-19.02.13:763][790]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLockB7478D6342AF0964E595E58195A505AD.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.02.13:790][790]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.02.13:790][790]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.02.22:306][775]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.02.22:309][775]LogClass: Warning: Type mismatch in IntToChar of SpinLock_C - Previous (StrProperty) Current(ArrayProperty) for package:  FObjectReader
+[2021.01.31-19.02.22:367][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.01.31-19.02.22:823][820]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLock2396360D4F305C2E5905E3B8D6BF874D.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.02.22:844][820]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.02.22:844][820]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.04.42:853][764]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.04.42:915][764]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.01.31-19.04.43:470][817]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLock24890E684996AB94CCF37BBC6BB2CE08.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.04.43:485][817]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.04.43:485][817]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.05.12:216][135]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.05.12:285][135]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.01.31-19.05.12:650][170]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLock0213D0D94AD204B87A2A5EB33F4C6815.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.05.12:667][170]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.05.12:667][170]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.06.35:084][557]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.06.35:149][557]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2021.01.31-19.06.35:560][595]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLock61F401394B4BF89EC06DE6AAB2509791.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.06.35:576][595]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.06.35:576][595]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.06.43:310][492]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.06.43:375][492]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.01.31-19.06.43:853][536]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLockD196E51B4B914E58A4CE748D784A7C48.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.06.43:868][536]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.06.43:868][536]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.07.04:100][782]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.07.04:164][782]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.01.31-19.07.04:589][820]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLock61197F7A49B8220F2BF79FB01544717F.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.07.04:603][820]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.07.04:603][820]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.07.14:549][923]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.07.14:609][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.01.31-19.07.15:017][959]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLock69E61A1C4D0A88C501FE308007C14A3D.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.07.15:033][959]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.07.15:033][959]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.07.17:411][218]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.07.17:479][218]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.01.31-19.07.17:956][261]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLockB52D2BB44E2FA9A04D14619E72ADFF60.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.07.17:969][261]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.07.17:969][261]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.07.49:898][885]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-19.08.14:955][793]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-19.08.38:089][437]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-19.08.45:662][315]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.08.45:664][315]LogBlueprint: Error: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] SKEL_SpinLock_C.Char is not blueprint writable.  Set Char
+[2021.01.31-19.08.45:666][315]LogBlueprint: Error: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] SKEL_SpinLock_C.Char is not blueprint writable.  Set Char
+[2021.01.31-19.08.45:666][315]LogBlueprint: Error: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] SKEL_SpinLock_C.Char is not blueprint writable.  Set Char
+[2021.01.31-19.08.45:666][315]LogBlueprint: Warning: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] SKEL_SpinLock_C.Char is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get Char
+[2021.01.31-19.08.45:667][315]LogBlueprint: Error: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] Char  of type String doesn't match the property Char of type Text Object Reference
+[2021.01.31-19.08.45:667][315]LogBlueprint: Error: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' Char ': Member:Char Unable to bind ObjectProperty, unsupported type.
+[2021.01.31-19.08.45:731][315]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.01.31-19.08.46:162][354]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLock5A17CFAC47D164BF8FE7F4A730432A25.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.08.46:174][354]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.08.46:174][354]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.09.18:780][128]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.09.18:783][128]LogBlueprint: Error: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] SKEL_SpinLock_C.CharText is not blueprint writable.  Set CharText
+[2021.01.31-19.09.18:784][128]LogBlueprint: Error: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] SKEL_SpinLock_C.CharText is not blueprint writable.  Set CharText
+[2021.01.31-19.09.18:785][128]LogBlueprint: Error: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] SKEL_SpinLock_C.CharText is not blueprint writable.  Set CharText
+[2021.01.31-19.09.18:785][128]LogBlueprint: Warning: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] SKEL_SpinLock_C.CharText is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get CharText
+[2021.01.31-19.09.18:786][128]LogBlueprint: Error: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] Char Text  of type String doesn't match the property CharText of type Text Object Reference
+[2021.01.31-19.09.18:787][128]LogClass: Warning: Type mismatch in Char of SpinLock_C - Previous (ObjectProperty) Current(StrProperty) for package:  FObjectReader
+[2021.01.31-19.09.18:789][128]LogClass: Warning: Type mismatch in Char of SpinLock_C - Previous (ObjectProperty) Current(StrProperty) for package:  FObjectReader
+[2021.01.31-19.09.18:845][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.01.31-19.09.19:398][178]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLock6858ECB7485426045D8A5B8E98D1F396.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.09.19:412][178]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.09.19:412][178]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.09.58:679][760]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.01.31-19.09.58:681][760]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/house1' took 0.041
+[2021.01.31-19.09.58:682][760]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/Core/OurGamesController] ([1] browsable assets)...
+[2021.01.31-19.09.58:682][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Core/OurGamesController]
+[2021.01.31-19.09.58:712][760]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/OurGamesController_Auto16BD96E1448024B93AE7031AA43F73944.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Core/OurGamesController_Auto1.uasset'
+[2021.01.31-19.09.58:713][760]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2021.01.31-19.09.58:751][760]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2021.01.31-19.09.58:751][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2021.01.31-19.09.58:861][760]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/FirstPersonCharacter_Auto19341672542BD02BC038123A250AC5C7C.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2021.01.31-19.09.58:862][760]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/Pickupable] ([1] browsable assets)...
+[2021.01.31-19.09.58:875][760]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/Pickupable.Pickupable]
+[2021.01.31-19.09.58:875][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Pickupable]
+[2021.01.31-19.09.58:894][760]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Pickupable_Auto168635E634B23F733EB9A8C9F43A01316.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Pickupable_Auto1.uasset'
+[2021.01.31-19.09.58:895][760]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/pickupable2] ([1] browsable assets)...
+[2021.01.31-19.09.58:907][760]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/pickupable2.pickupable2]
+[2021.01.31-19.09.58:907][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/pickupable2]
+[2021.01.31-19.09.58:936][760]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/pickupable2_Auto1263D0FB945ACF421EEA043AD77727E58.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/FirstPersonBP/Blueprints/pickupable2_Auto1.uasset'
+[2021.01.31-19.09.58:937][760]LogFileHelpers: Auto-saving content packages took 0.257
+[2021.01.31-19.17.46:345][562]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.17.46:348][562]LogBlueprint: Error: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] SKEL_SpinLock_C.CharText is not blueprint writable.  Set CharText
+[2021.01.31-19.17.46:349][562]LogBlueprint: Warning: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] SKEL_SpinLock_C.CharText is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get CharText
+[2021.01.31-19.17.46:350][562]LogBlueprint: Error: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] Char Text  of type String doesn't match the property CharText of type Text Object Reference
+[2021.01.31-19.17.46:410][562]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.01.31-19.17.58:491][941]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.17.58:494][941]LogBlueprint: Error: [AssetLog] C:\Users\Jefferey Schlueter\Documents\Programming\TisGameJam2021\GameJam2021 4.26\Content\FirstPersonBP\Blueprints\UI\SpinLock.uasset: [Compiler] SKEL_SpinLock_C.CharText is not blueprint writable.  Set CharText
+[2021.01.31-19.17.58:555][941]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2021.01.31-19.17.59:198][  4]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLock3C0E844841DAB35C17CE8E8C4CEDE6A5.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.17.59:216][  4]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.17.59:216][  4]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.18.27:008][117]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.18.27:079][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.01.31-19.18.27:660][170]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLock7D50215048BA98367C2FF5B17B9CA671.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.18.27:679][170]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.18.27:679][170]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.18.32:948][741]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.18.33:010][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.01.31-19.18.33:515][790]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLockB49DE3624639983DAC0DA69EFA852C80.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.18.33:530][790]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.18.33:530][790]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.18.43:983][352]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.31-19.18.51:622][847]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.SpinLockPuzzle
+[2021.01.31-19.19.03:393][152]LogUMG: Error: Widget Class SpinLock_C - Running Initialize On Archetype, SpinLock.
+[2021.01.31-19.19.04:587][274]LogUMG: Error: Widget Class SpinLock_C - Running Initialize On Archetype, SpinLock_0.
+[2021.01.31-19.19.05:870][390]LogUMG: Error: Widget Class SpinLock_C - Running Initialize On Archetype, SpinLock_1.
+[2021.01.31-19.19.07:576][566]LogUMG: Error: Widget Class SpinLock_C - Running Initialize On Archetype, SpinLock_2.
+[2021.01.31-19.19.09:059][700]LogUMG: Error: Widget Class SpinLock_C - Running Initialize On Archetype, SpinLock_3.
+[2021.01.31-19.24.41:390][262]LogEditorTransaction: Undo Remove Widget
+[2021.01.31-19.27.35:965][ 23]BlueprintLog: New page: Compile SpinLockPuzzle
+[2021.01.31-19.27.36:037][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.01.31-19.27.36:828][104]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLockPuzzle8A26FF4A42F42316D732688D3FF2FDD5.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.uasset'
+[2021.01.31-19.27.36:843][104]AssetCheck: New page: Asset Save: SpinLockPuzzle
+[2021.01.31-19.27.36:843][104]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.SpinLockPuzzle
+[2021.01.31-19.28.41:684][526]BlueprintLog: New page: Compile SpinLockPuzzle
+[2021.01.31-19.28.41:755][526]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.01.31-19.28.42:948][645]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLockPuzzleE4C512A1451FDD3319AF77A868AC251C.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.uasset'
+[2021.01.31-19.28.42:965][645]AssetCheck: New page: Asset Save: SpinLockPuzzle
+[2021.01.31-19.28.42:965][645]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.SpinLockPuzzle
+[2021.01.31-19.30.58:455][ 24]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-19.31.09:880][305]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-19.32.21:484][634]BlueprintLog: New page: Compile SpinLockPuzzle
+[2021.01.31-19.32.21:566][634]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2021.01.31-19.32.21:976][669]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLockPuzzleD488FE7D4CD60C6186A9B588D744107B.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.uasset'
+[2021.01.31-19.32.21:990][669]AssetCheck: New page: Asset Save: SpinLockPuzzle
+[2021.01.31-19.32.21:990][669]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.SpinLockPuzzle
+[2021.01.31-19.33.43:062][170]LogEditorTransaction: Undo Move Node
+[2021.01.31-19.35.32:505][669]LogEditorTransaction: Undo Move Node
+[2021.01.31-19.36.33:527][529]BlueprintLog: New page: Compile SpinLockPuzzle
+[2021.01.31-19.36.33:600][529]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.01.31-19.36.34:160][579]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLockPuzzle3B8674C946835190CBBF1699C79EDBBF.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.uasset'
+[2021.01.31-19.36.34:179][579]AssetCheck: New page: Asset Save: SpinLockPuzzle
+[2021.01.31-19.36.34:180][579]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.SpinLockPuzzle
+[2021.01.31-19.36.45:369][856]BlueprintLog: New page: Compile SpinLockPuzzle
+[2021.01.31-19.36.45:435][856]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.01.31-19.36.46:156][930]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLockPuzzle00572CD04B9F6F950DDAAB8591E456AC.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.uasset'
+[2021.01.31-19.36.46:170][930]AssetCheck: New page: Asset Save: SpinLockPuzzle
+[2021.01.31-19.36.46:170][930]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.SpinLockPuzzle
+[2021.01.31-19.37.03:399][921]BlueprintLog: New page: Compile SpinLock
+[2021.01.31-19.37.03:500][921]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.01.31-19.37.03:960][962]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLock0574172746EB7294ACC7ECA1B61EE93C.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLock.uasset'
+[2021.01.31-19.37.03:980][962]AssetCheck: New page: Asset Save: SpinLock
+[2021.01.31-19.37.03:981][962]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLock.SpinLock
+[2021.01.31-19.38.22:445][968]BlueprintLog: New page: Compile SpinLockPuzzle
+[2021.01.31-19.38.22:496][968]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.01.31-19.38.22:927][  3]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLockPuzzle5478CCAF4F768825F12306ACD1D9768A.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.uasset'
+[2021.01.31-19.38.22:947][  3]AssetCheck: New page: Asset Save: SpinLockPuzzle
+[2021.01.31-19.38.22:947][  3]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.SpinLockPuzzle
+[2021.01.31-19.38.52:093][934]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Core/FirstPersonGameMode.FirstPersonGameMode
+[2021.01.31-19.39.40:518][428]BlueprintLog: New page: Compile FirstPersonGameMode
+[2021.01.31-19.39.40:595][428]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.01.31-19.39.40:960][462]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/FirstPersonGameModeF1C6F8FB4C6074BFC16EFAAF66FE49F5.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/Core/FirstPersonGameMode.uasset'
+[2021.01.31-19.39.40:978][462]AssetCheck: New page: Asset Save: FirstPersonGameMode
+[2021.01.31-19.39.40:978][462]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Core/FirstPersonGameMode.FirstPersonGameMode
+[2021.01.31-19.40.01:163][778]BlueprintLog: New page: Compile FirstPersonGameMode
+[2021.01.31-19.40.01:238][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.01.31-19.40.01:966][845]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/FirstPersonGameMode15394CFE4A7C82B8C3A3B19565A37E96.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/Core/FirstPersonGameMode.uasset'
+[2021.01.31-19.40.01:978][845]AssetCheck: New page: Asset Save: FirstPersonGameMode
+[2021.01.31-19.40.01:978][845]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Core/FirstPersonGameMode.FirstPersonGameMode
+[2021.01.31-19.40.23:368][ 78]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Core/FirstPersonHUD.FirstPersonHUD
+[2021.01.31-19.40.38:904][828]BlueprintLog: New page: Compile FirstPersonHUD
+[2021.01.31-19.40.38:984][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.01.31-19.40.39:549][880]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/FirstPersonHUDAAFE28EC4310BB7221B33090333228BF.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/Core/FirstPersonHUD.uasset'
+[2021.01.31-19.40.39:564][880]AssetCheck: New page: Asset Save: FirstPersonHUD
+[2021.01.31-19.40.39:564][880]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Core/FirstPersonHUD.FirstPersonHUD
+[2021.01.31-19.41.05:742][260]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.01.31-19.41.05:744][260]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/house1' took 0.054
+[2021.01.31-19.41.05:744][260]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/Core/OurGamesController] ([1] browsable assets)...
+[2021.01.31-19.41.05:744][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Core/OurGamesController]
+[2021.01.31-19.41.05:766][260]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/OurGamesController_Auto23AA8030D4B58F3CE6FC3B4B7A05117D7.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Core/OurGamesController_Auto2.uasset'
+[2021.01.31-19.41.05:767][260]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/UI/SpinLockPuzzle] ([2] browsable assets)...
+[2021.01.31-19.41.05:767][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/UI/SpinLockPuzzle]
+[2021.01.31-19.41.05:803][260]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLockPuzzle_Auto2E855BC88451A0899261FD28F9F18BED0.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/FirstPersonBP/Blueprints/UI/SpinLockPuzzle_Auto2.uasset'
+[2021.01.31-19.41.05:804][260]LogFileHelpers: Auto-saving content packages took 0.060
+[2021.01.31-19.41.26:660][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.01.31-19.41.26:708][756]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/OurGamesControllerC5FFEF6642EECFA4FA4C749B4E1FDB2C.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/Core/OurGamesController.uasset'
+[2021.01.31-19.41.26:820][756]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/FirstPersonCharacter6E82748B4A0F156ED85800BAE3BA3FA5.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.01.31-19.41.26:835][756]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/PickupableF0DDC94E44F787C925E9F78544226A13.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/Pickupable.uasset'
+[2021.01.31-19.41.26:857][756]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/pickupable2214C4FD74E9086176B3F5B9DADF3350C.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/pickupable2.uasset'
+[2021.01.31-19.41.26:892][756]LogSavePackage: Moving '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Saved/SpinLockPuzzle462ABC804B77E44C025759BFBD5C6FBA.tmp' to '../../../../../../Users/Jefferey Schlueter/Documents/Programming/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.uasset'
+[2021.01.31-19.41.26:909][756]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-19.41.26:909][756]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController
+[2021.01.31-19.41.26:909][756]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Pickupable.Pickupable
+[2021.01.31-19.41.26:910][756]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.31-19.41.26:910][756]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/pickupable2.pickupable2
+[2021.01.31-19.41.26:910][756]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/UI/SpinLockPuzzle.SpinLockPuzzle
+>>>>>>> Stashed changes
