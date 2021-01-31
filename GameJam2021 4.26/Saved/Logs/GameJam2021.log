@@ -2272,3 +2272,950 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-16.16.33:941][ 28]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
 [2021.01.31-16.16.33:941][ 28]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
 [2021.01.31-16.16.40:910][442]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.17.01:781][930]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.17.11:061][ 49]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.17.11:099][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.01.31-16.17.11:175][ 49]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/house1_Auto2BB9C33CC4615160B65A5209AF2440C02.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/FirstPersonBP/Maps/house1_Auto2.umap'
+[2021.01.31-16.17.11:180][ 49]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/house1' took 0.088
+[2021.01.31-16.17.11:180][ 49]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.088
+[2021.01.31-16.17.11:180][ 49]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/myShit/mat/m_woodFloor] ([1] browsable assets)...
+[2021.01.31-16.17.11:180][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/m_woodFloor]
+[2021.01.31-16.17.11:189][ 49]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/m_woodFloor_Auto22152E95C4CCF4E2D977B8D92E701750D.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/m_woodFloor_Auto2.uasset'
+[2021.01.31-16.17.11:191][ 49]LogFileHelpers: Auto-saving content packages took 0.011
+[2021.01.31-16.21.01:664][ 62]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.21.01:909][ 75]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.21.02:657][119]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_ambientocclusion.png]
+[2021.01.31-16.21.02:659][119]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_ambientocclusion.png)
+[2021.01.31-16.21.02:695][119]LogTexture: Display: Building textures: wood_ambientocclusion (AutoDXT, 1024X1024)
+[2021.01.31-16.21.02:774][119]LogEditorFactories: -- imported successfully
+[2021.01.31-16.21.02:780][119]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.21.02:781][119]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_basecolor.png]
+[2021.01.31-16.21.02:786][119]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_basecolor.png)
+[2021.01.31-16.21.02:826][119]LogTexture: Display: Building textures: wood_basecolor (AutoDXT, 1024X1024)
+[2021.01.31-16.21.02:991][119]LogEditorFactories: -- imported successfully
+[2021.01.31-16.21.02:998][119]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.21.02:999][119]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_height.png]
+[2021.01.31-16.21.03:003][119]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_height.png)
+[2021.01.31-16.21.03:043][119]LogTexture: Display: Building textures: wood_height (AutoDXT, 1024X1024)
+[2021.01.31-16.21.03:082][119]LogEditorFactories: -- imported successfully
+[2021.01.31-16.21.03:089][119]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.21.03:090][119]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_metallic.png]
+[2021.01.31-16.21.03:091][119]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_metallic.png)
+[2021.01.31-16.21.03:115][119]LogTexture: Display: Building textures: wood_metallic (AutoDXT, 1024X1024)
+[2021.01.31-16.21.03:137][119]LogEditorFactories: -- imported successfully
+[2021.01.31-16.21.03:140][119]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.21.03:142][119]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_normal.png]
+[2021.01.31-16.21.03:158][119]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_normal.png)
+[2021.01.31-16.21.03:251][119]LogTexture: Display: Building textures: wood_normal (BC5, 1024X1024)
+[2021.01.31-16.21.03:294][119]LogEditorFactories: -- imported successfully
+[2021.01.31-16.21.03:314][119]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.21.03:315][119]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_roughness.png]
+[2021.01.31-16.21.03:317][119]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_roughness.png)
+[2021.01.31-16.21.03:349][119]LogTexture: Display: Building textures: wood_roughness (AutoDXT, 1024X1024)
+[2021.01.31-16.21.03:434][119]LogEditorFactories: -- imported successfully
+[2021.01.31-16.21.03:439][119]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.21.07:002][326]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-16.21.07:020][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-16.21.07:021][326]PIE: New page: PIE session: house1 (Jan 31, 2021, 6:21:07 AM)
+[2021.01.31-16.21.07:021][326]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-16.21.07:040][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019578s)
+[2021.01.31-16.21.07:042][326]LogAIModule: Creating AISystem for world house1
+[2021.01.31-16.21.07:042][326]LogPlayLevel: PIE: World Init took: (0.001940s)
+[2021.01.31-16.21.07:043][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/house1.house1 to /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 (0.021787s)
+[2021.01.31-16.21.07:051][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.01.31-16.21.07:054][326]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.01.31-16.21.07:054][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-16.21.07:054][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-16.21.07:054][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-16.21.07:054][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-16.21.07:054][326]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-16.21.07:054][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-16.21.07:054][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-16.21.07:054][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-16.21.07:055][326]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-16.21.07:055][326]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-16.21.07:062][326]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-16.21.07:062][326]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-16.21.07:062][326]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-16.21.07:062][326]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-16.21.07:062][326]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-16.21.07:062][326]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-16.21.07:062][326]LogAudioMixer: Display: 6: SideLeft
+[2021.01.31-16.21.07:062][326]LogAudioMixer: Display: 7: SideRight
+[2021.01.31-16.21.07:077][326]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.31-16.21.07:077][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-16.21.07:077][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-16.21.07:077][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-16.21.07:078][326]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-16.21.07:078][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-16.21.07:078][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.31-16.21.07:100][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-16.21.07:100][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-16.21.07:100][326]LogInit: FAudioDevice initialized.
+[2021.01.31-16.21.07:100][326]LogAudio: Display: Audio Device (ID: 3) registered with world 'house1'.
+[2021.01.31-16.21.07:110][326]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.31-16.21.07:117][326]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 up for play (max tick rate 60) at 2021.01.31-11.21.07
+[2021.01.31-16.21.07:117][326]LogWorld: Bringing up level for play took: 0.006537
+[2021.01.31-16.21.07:117][326]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.01.31-16.21.07:121][326]LogScript: Warning: Accessed None trying to read property CallFunc_GetTimerWidget_Widget
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00AB
+[2021.01.31-16.21.07:121][326]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetTimerWidget_Widget". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-16.21.07:121][326]LogScript: Warning: Attempted to assign to None
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00C0
+[2021.01.31-16.21.07:121][326]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-16.21.07:122][326]PIE: Server logged in
+[2021.01.31-16.21.07:123][326]PIE: Play in editor total start time 0.108 seconds.
+[2021.01.31-16.21.23:061][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-16.21.23:061][279]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-16.21.23:061][279]LogWorld: UWorld::CleanupWorld for house1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-16.21.23:062][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-16.21.23:073][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-16.21.23:087][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-16.21.23:092][279]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-16.21.23:093][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-16.21.23:094][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-16.21.23:110][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-16.21.23:113][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.01.31-16.21.23:129][279]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.21.23:152][279]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.21.23:226][280]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.01.31-16.21.25:313][398]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-16.21.25:330][398]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-16.22.31:033][820]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.22.31:482][845]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.22.32:165][886]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_ambientocclusion.png]
+[2021.01.31-16.22.32:168][886]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_ambientocclusion.png)
+[2021.01.31-16.22.32:206][886]LogTexture: Display: Building textures: wood_ambientocclusion (AutoDXT, 1024X1024)
+[2021.01.31-16.22.32:288][886]LogEditorFactories: -- imported successfully
+[2021.01.31-16.22.32:293][886]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.22.32:294][886]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_basecolor.png]
+[2021.01.31-16.22.32:299][886]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_basecolor.png)
+[2021.01.31-16.22.32:337][886]LogTexture: Display: Building textures: wood_basecolor (AutoDXT, 1024X1024)
+[2021.01.31-16.22.32:487][886]LogEditorFactories: -- imported successfully
+[2021.01.31-16.22.32:493][886]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.22.32:495][886]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_height.png]
+[2021.01.31-16.22.32:499][886]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_height.png)
+[2021.01.31-16.22.32:544][886]LogTexture: Display: Building textures: wood_height (AutoDXT, 1024X1024)
+[2021.01.31-16.22.32:587][886]LogEditorFactories: -- imported successfully
+[2021.01.31-16.22.32:594][886]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.22.32:596][886]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_metallic.png]
+[2021.01.31-16.22.32:597][886]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_metallic.png)
+[2021.01.31-16.22.32:621][886]LogTexture: Display: Building textures: wood_metallic (AutoDXT, 1024X1024)
+[2021.01.31-16.22.32:644][886]LogEditorFactories: -- imported successfully
+[2021.01.31-16.22.32:647][886]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.22.32:649][886]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_normal.png]
+[2021.01.31-16.22.32:665][886]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_normal.png)
+[2021.01.31-16.22.32:769][886]LogTexture: Display: Building textures: wood_normal (BC5, 1024X1024)
+[2021.01.31-16.22.32:814][886]LogEditorFactories: -- imported successfully
+[2021.01.31-16.22.32:835][886]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.22.32:836][886]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_roughness.png]
+[2021.01.31-16.22.32:838][886]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_roughness.png)
+[2021.01.31-16.22.32:868][886]LogTexture: Display: Building textures: wood_roughness (AutoDXT, 1024X1024)
+[2021.01.31-16.22.32:936][886]LogEditorFactories: -- imported successfully
+[2021.01.31-16.22.32:941][886]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.24.04:676][853]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.24.06:658][971]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_ambientocclusion.png]
+[2021.01.31-16.24.06:660][971]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_ambientocclusion.png)
+[2021.01.31-16.24.06:697][971]LogTexture: Display: Building textures: wood_ambientocclusion (AutoDXT, 1024X1024)
+[2021.01.31-16.24.06:784][971]LogEditorFactories: -- imported successfully
+[2021.01.31-16.24.06:789][971]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.24.06:791][971]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_basecolor.png]
+[2021.01.31-16.24.06:791][971]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_basecolor.png)
+[2021.01.31-16.24.06:815][971]LogTexture: Display: Building textures: wood_basecolor (AutoDXT, 1024X1024)
+[2021.01.31-16.24.06:843][971]LogEditorFactories: -- imported successfully
+[2021.01.31-16.24.06:846][971]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.24.06:848][971]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_height.png]
+[2021.01.31-16.24.06:852][971]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_height.png)
+[2021.01.31-16.24.06:897][971]LogTexture: Display: Building textures: wood_height (AutoDXT, 1024X1024)
+[2021.01.31-16.24.06:947][971]LogEditorFactories: -- imported successfully
+[2021.01.31-16.24.06:954][971]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.24.06:956][971]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_metallic.png]
+[2021.01.31-16.24.06:956][971]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_metallic.png)
+[2021.01.31-16.24.06:981][971]LogTexture: Display: Building textures: wood_metallic (AutoDXT, 1024X1024)
+[2021.01.31-16.24.07:009][971]LogEditorFactories: -- imported successfully
+[2021.01.31-16.24.07:012][971]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.24.07:014][971]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_normal.png]
+[2021.01.31-16.24.07:031][971]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_normal.png)
+[2021.01.31-16.24.07:148][971]LogTexture: Display: Building textures: wood_normal (BC5, 1024X1024)
+[2021.01.31-16.24.07:192][971]LogEditorFactories: -- imported successfully
+[2021.01.31-16.24.07:212][971]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.24.07:213][971]LogEditorFactories: Performing atomic reimport of [C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_roughness.png]
+[2021.01.31-16.24.07:215][971]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/wood_roughness.png)
+[2021.01.31-16.24.07:244][971]LogTexture: Display: Building textures: wood_roughness (AutoDXT, 1024X1024)
+[2021.01.31-16.24.07:314][971]LogEditorFactories: -- imported successfully
+[2021.01.31-16.24.07:319][971]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.24.12:036][248]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-16.24.12:053][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-16.24.12:053][248]PIE: New page: PIE session: house1 (Jan 31, 2021, 6:24:12 AM)
+[2021.01.31-16.24.12:053][248]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-16.24.12:071][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017670s)
+[2021.01.31-16.24.12:072][248]LogAIModule: Creating AISystem for world house1
+[2021.01.31-16.24.12:077][248]LogPlayLevel: PIE: World Init took: (0.006229s)
+[2021.01.31-16.24.12:077][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/house1.house1 to /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 (0.024076s)
+[2021.01.31-16.24.12:083][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.01.31-16.24.12:087][248]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.01.31-16.24.12:087][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-16.24.12:087][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-16.24.12:087][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-16.24.12:087][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-16.24.12:087][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-16.24.12:087][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-16.24.12:087][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-16.24.12:087][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-16.24.12:088][248]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-16.24.12:088][248]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-16.24.12:094][248]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-16.24.12:094][248]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-16.24.12:094][248]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-16.24.12:094][248]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-16.24.12:094][248]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-16.24.12:094][248]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-16.24.12:094][248]LogAudioMixer: Display: 6: SideLeft
+[2021.01.31-16.24.12:094][248]LogAudioMixer: Display: 7: SideRight
+[2021.01.31-16.24.12:104][248]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.31-16.24.12:105][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-16.24.12:105][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-16.24.12:105][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-16.24.12:105][248]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-16.24.12:105][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-16.24.12:105][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.31-16.24.12:106][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-16.24.12:106][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-16.24.12:106][248]LogInit: FAudioDevice initialized.
+[2021.01.31-16.24.12:106][248]LogAudio: Display: Audio Device (ID: 4) registered with world 'house1'.
+[2021.01.31-16.24.12:131][248]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.31-16.24.12:138][248]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 up for play (max tick rate 60) at 2021.01.31-11.24.12
+[2021.01.31-16.24.12:138][248]LogWorld: Bringing up level for play took: 0.005706
+[2021.01.31-16.24.12:138][248]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.31-16.24.12:142][248]LogScript: Warning: Accessed None trying to read property CallFunc_GetTimerWidget_Widget
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00AB
+[2021.01.31-16.24.12:142][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetTimerWidget_Widget". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-16.24.12:142][248]LogScript: Warning: Attempted to assign to None
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00C0
+[2021.01.31-16.24.12:142][248]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-16.24.12:142][248]PIE: Server logged in
+[2021.01.31-16.24.12:143][248]PIE: Play in editor total start time 0.094 seconds.
+[2021.01.31-16.24.29:121][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-16.24.29:121][263]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-16.24.29:121][263]LogWorld: UWorld::CleanupWorld for house1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-16.24.29:122][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-16.24.29:130][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-16.24.29:143][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-16.24.29:149][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-16.24.29:149][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-16.24.29:150][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-16.24.29:168][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-16.24.29:170][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.01.31-16.24.29:187][263]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.24.29:207][263]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.24.29:267][264]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.31-16.24.38:892][452]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-16.24.38:909][452]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-16.27.10:850][457]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.17:874][871]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.20:028][993]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.28:522][ 64]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.28:537][ 64]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/tileFloor_ambientocclusion.png)
+[2021.01.31-16.27.28:568][ 64]LogTexture: Display: Building textures: tileFloor_ambientocclusion (AutoDXT, 1024X1024)
+[2021.01.31-16.27.28:625][ 64]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/tileFloor_basecolor.png)
+[2021.01.31-16.27.28:678][ 64]LogTexture: Display: Building textures: tileFloor_basecolor (AutoDXT, 1024X1024)
+[2021.01.31-16.27.28:959][ 64]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/tileFloor_height.png)
+[2021.01.31-16.27.29:003][ 64]LogTexture: Display: Building textures: tileFloor_height (AutoDXT, 1024X1024)
+[2021.01.31-16.27.29:050][ 64]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/tileFloor_metallic.png)
+[2021.01.31-16.27.29:053][ 64]LogTexture: Display: Building textures: tileFloor_metallic (AutoDXT, 1024X1024)
+[2021.01.31-16.27.29:100][ 64]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/tileFloor_normal.png)
+[2021.01.31-16.27.29:231][ 64]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.29:235][ 64]LogTexture: Display: Building textures: tileFloor_normal (BC5, 1024X1024)
+[2021.01.31-16.27.29:310][ 64]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Carla/Desktop/gamejam2/Content/myShit/mat/tileFloor_roughness.png)
+[2021.01.31-16.27.29:326][ 64]LogTexture: Display: Building textures: tileFloor_roughness (AutoDXT, 1024X1024)
+[2021.01.31-16.27.35:736][423]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.42:438][816]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.42:961][842]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.46:047][ 25]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.46:083][ 25]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.46:110][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/mat/m_tile" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/mat/m_tile.uasset" SILENT=true
+[2021.01.31-16.27.46:128][ 25]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/m_tileC28E2F7E43D459A1601E0B8B9A5491BB.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/mat/m_tile.uasset'
+[2021.01.31-16.27.46:143][ 25]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.46:171][ 25]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.46:188][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.01.31-16.27.46:209][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.01.31-16.27.46:215][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.01.31-16.27.46:271][ 25]AssetCheck: New page: Asset Save: m_tile
+[2021.01.31-16.27.46:271][ 25]LogContentValidation: Display: Validating Material /Game/myShit/mat/m_tile.m_tile
+[2021.01.31-16.27.47:424][ 88]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.47:449][ 88]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/myShit/mat/m_tile.m_tile
+[2021.01.31-16.27.47:451][ 88]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.27.47:515][ 88]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.47:686][ 88]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.27.47:697][ 88]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.27.47:708][ 88]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-16.27.47:708][ 88]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-16.27.47:708][ 88]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-16.27.47:708][ 88]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-16.27.47:709][ 88]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-16.27.47:709][ 88]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-16.27.47:709][ 88]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-16.27.47:709][ 88]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-16.27.49:781][153]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.31-16.27.50:601][183]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.01.31-16.27.50:601][183]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.01.31-16.27.50:601][183]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.31-16.27.50:601][183]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.31-16.27.52:903][315]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.53:394][330]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.27.53:411][330]LogSlate: Window 'm_tile' being destroyed
+[2021.01.31-16.28.08:490][109]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.09:178][148]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.09:183][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.31-16.28.09:196][148]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.01.31-16.28.09:196][148]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.01.31-16.28.09:196][148]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.31-16.28.09:196][148]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.01.31-16.28.09:196][148]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.31-16.28.09:196][148]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.31-16.28.09:196][148]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.31-16.28.09:196][148]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.31-16.28.09:200][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.31-16.28.10:040][178]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.31-16.28.10:160][183]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-16.28.10:240][186]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.10:485][195]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.31-16.28.10:743][205]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.31-16.28.10:770][206]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.31-16.28.10:979][215]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.01.31-16.28.10:979][215]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.01.31-16.28.10:979][215]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.31-16.28.10:979][215]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.31-16.28.12:624][309]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.12:639][309]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.31-16.28.12:643][309]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-16.28.12:643][309]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-16.28.12:643][309]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-16.28.12:643][309]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-16.28.12:643][309]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-16.28.12:643][309]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-16.28.12:643][309]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-16.28.12:643][309]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-16.28.13:618][349]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.31-16.28.13:642][350]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-16.28.13:885][360]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.31-16.28.14:181][372]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.31-16.28.14:256][375]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.31-16.28.14:575][387]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.01.31-16.28.14:575][387]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2021.01.31-16.28.14:575][387]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.31-16.28.14:575][387]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.31-16.28.14:575][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.31-16.28.14:575][387]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.31-16.28.17:772][571]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.18:545][615]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.18:551][615]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.31-16.28.18:560][615]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-16.28.18:560][615]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-16.28.18:560][615]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-16.28.18:560][615]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-16.28.18:560][615]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-16.28.18:560][615]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-16.28.18:560][615]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-16.28.18:560][615]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-16.28.18:562][615]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.31-16.28.18:565][615]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.31-16.28.19:566][651]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.31-16.28.19:592][652]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.31-16.28.19:892][664]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.01.31-16.28.20:110][673]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-16.28.20:137][674]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.01.31-16.28.20:186][676]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.31-16.28.20:245][678]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-16.28.20:367][683]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.01.31-16.28.20:441][686]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.31-16.28.20:497][688]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.01.31-16.28.20:497][688]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2021.01.31-16.28.20:497][688]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.31-16.28.20:497][688]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.31-16.28.20:497][688]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.31-16.28.20:497][688]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.31-16.28.23:676][864]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.24:359][904]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.24:369][904]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.31-16.28.24:375][904]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.01.31-16.28.24:375][904]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.01.31-16.28.24:375][904]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.31-16.28.24:375][904]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.01.31-16.28.24:375][904]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.31-16.28.24:375][904]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.31-16.28.24:375][904]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.31-16.28.24:375][904]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.31-16.28.25:476][942]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.31-16.28.25:476][942]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-16.28.25:513][943]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.25:682][947]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.31-16.28.26:067][960]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-16.28.26:094][961]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.31-16.28.26:418][974]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.01.31-16.28.26:418][974]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2021.01.31-16.28.26:418][974]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.31-16.28.26:418][974]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.31-16.28.26:419][974]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.31-16.28.26:419][974]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.31-16.28.27:308][ 23]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.27:314][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.31-16.28.27:325][ 23]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.01.31-16.28.27:325][ 23]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.01.31-16.28.27:325][ 23]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.31-16.28.27:325][ 23]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.01.31-16.28.27:325][ 23]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.31-16.28.27:325][ 23]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.31-16.28.27:325][ 23]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.01.31-16.28.27:325][ 23]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.31-16.28.27:329][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.31-16.28.27:333][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.31-16.28.27:338][ 23]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.31-16.28.28:253][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.01.31-16.28.28:502][ 63]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.01.31-16.28.28:792][ 73]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.01.31-16.28.28:818][ 74]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.01.31-16.28.28:900][ 77]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.01.31-16.28.28:933][ 78]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.01.31-16.28.28:957][ 79]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.01.31-16.28.28:981][ 80]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.01.31-16.28.29:147][ 87]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.31-16.28.29:184][ 88]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.01.31-16.28.29:184][ 88]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2021.01.31-16.28.29:184][ 88]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.31-16.28.29:184][ 88]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.31-16.28.29:184][ 88]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.01.31-16.28.29:184][ 88]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.31-16.28.29:360][ 94]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-16.28.29:815][108]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-16.28.29:912][111]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.31-16.28.29:912][111]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.31-16.28.30:577][140]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.32:070][227]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.32:084][227]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.31-16.28.32:088][227]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-16.28.32:088][227]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-16.28.32:088][227]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-16.28.32:088][227]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-16.28.32:088][227]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-16.28.32:088][227]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-16.28.32:088][227]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-16.28.32:088][227]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-16.28.32:989][261]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.31-16.28.33:070][263]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-16.28.33:377][274]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.31-16.28.33:576][281]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.01.31-16.28.33:601][282]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.31-16.28.33:873][294]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.01.31-16.28.33:874][294]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2021.01.31-16.28.33:874][294]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.31-16.28.33:874][294]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.31-16.28.33:874][294]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.31-16.28.33:874][294]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.31-16.28.34:520][324]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.35:120][357]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.35:127][357]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.01.31-16.28.35:132][357]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-16.28.35:133][357]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-16.28.35:133][357]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-16.28.35:133][357]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-16.28.35:133][357]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-16.28.35:133][357]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-16.28.35:133][357]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-16.28.35:133][357]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-16.28.35:137][357]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.31-16.28.35:140][357]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.31-16.28.35:143][357]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.31-16.28.35:148][357]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.01.31-16.28.36:040][388]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.01.31-16.28.36:053][388]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.36:154][391]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.01.31-16.28.36:423][399]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.01.31-16.28.36:649][406]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.01.31-16.28.36:684][406]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.01.31-16.28.36:719][408]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.01.31-16.28.36:770][410]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.01.31-16.28.36:794][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.01.31-16.28.36:997][418]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.31-16.28.37:060][420]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.01.31-16.28.37:060][420]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2021.01.31-16.28.37:060][420]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.31-16.28.37:060][420]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.31-16.28.37:060][420]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.31-16.28.37:060][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.31-16.28.37:119][422]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.01.31-16.28.37:131][422]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.37:159][422]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.01.31-16.28.37:412][429]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2021.01.31-16.28.37:546][432]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.31-16.28.37:588][434]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.01.31-16.28.37:739][438]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.01.31-16.28.37:850][440]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.01.31-16.28.37:850][440]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.31-16.28.37:881][442]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.01.31-16.28.37:940][444]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.31-16.28.38:136][450]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.38:486][457]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.01.31-16.28.38:607][462]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.01.31-16.28.38:749][467]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.01.31-16.28.38:797][467]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.38:812][467]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.01.31-16.28.38:828][467]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.01.31-16.28.38:837][467]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.31-16.28.38:845][467]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.31-16.28.38:854][467]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.31-16.28.38:861][467]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.01.31-16.28.38:870][467]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.01.31-16.28.39:139][473]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2021.01.31-16.28.39:393][481]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.01.31-16.28.39:422][482]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2021.01.31-16.28.39:479][484]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2021.01.31-16.28.39:651][490]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.01.31-16.28.39:738][493]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.01.31-16.28.39:947][500]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.40:097][503]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2021.01.31-16.28.40:144][504]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.01.31-16.28.40:516][517]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.01.31-16.28.40:644][521]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.40:668][521]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.01.31-16.28.40:739][523]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2021.01.31-16.28.40:796][525]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2021.01.31-16.28.40:847][527]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2021.01.31-16.28.41:037][534]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2021.01.31-16.28.41:273][541]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.01.31-16.28.41:388][545]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.01.31-16.28.41:515][548]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2021.01.31-16.28.41:515][548]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.01.31-16.28.41:635][551]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2021.01.31-16.28.41:837][559]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.01.31-16.28.41:896][561]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2021.01.31-16.28.41:944][562]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2021.01.31-16.28.42:013][564]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.42:162][567]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.31-16.28.42:503][577]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2021.01.31-16.28.42:561][579]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.01.31-16.28.42:622][581]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.01.31-16.28.42:653][582]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.01.31-16.28.42:831][587]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.42:846][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.01.31-16.28.42:858][587]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.31-16.28.42:866][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.31-16.28.42:872][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.31-16.28.42:880][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.31-16.28.42:886][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.01.31-16.28.42:894][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.01.31-16.28.42:902][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.01.31-16.28.42:966][588]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 33
+[2021.01.31-16.28.42:966][588]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 32
+[2021.01.31-16.28.43:099][591]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 31
+[2021.01.31-16.28.43:441][602]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2021.01.31-16.28.43:537][605]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2021.01.31-16.28.43:651][609]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.01.31-16.28.43:757][613]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2021.01.31-16.28.43:872][617]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.43:959][618]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2021.01.31-16.28.44:187][624]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.01.31-16.28.44:263][626]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2021.01.31-16.28.44:555][636]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.01.31-16.28.44:613][638]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2021.01.31-16.28.44:715][641]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.44:740][641]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.01.31-16.28.44:921][647]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2021.01.31-16.28.45:058][651]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2021.01.31-16.28.45:183][653]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.01.31-16.28.45:193][653]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2021.01.31-16.28.45:238][654]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2021.01.31-16.28.45:436][662]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.01.31-16.28.45:618][668]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.01.31-16.28.45:650][669]LogMaterialEditor: Saving and Compiling material m_tile
+[2021.01.31-16.28.46:983][669]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.01.31-16.28.46:983][669]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2021.01.31-16.28.46:983][669]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.01.31-16.28.46:983][669]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.01.31-16.28.46:983][669]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.01.31-16.28.46:983][669]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.01.31-16.28.46:983][669]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.31-16.28.46:983][669]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.01.31-16.28.46:984][669]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.01.31-16.28.46:984][669]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.01.31-16.28.46:984][669]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.31-16.28.46:984][669]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.01.31-16.28.46:984][669]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.01.31-16.28.46:984][669]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.01.31-16.28.46:984][669]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.31-16.28.47:004][669]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.47:063][669]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.47:093][669]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.47:148][669]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2021.01.31-16.28.47:148][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.01.31-16.28.47:163][669]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.31-16.28.47:732][669]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2021.01.31-16.28.47:732][669]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2021.01.31-16.28.47:732][669]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2021.01.31-16.28.47:732][669]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.01.31-16.28.47:732][669]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.01.31-16.28.48:290][669]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.01.31-16.28.48:290][669]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.01.31-16.28.48:290][669]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.01.31-16.28.48:290][669]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.01.31-16.28.48:290][669]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.01.31-16.28.48:290][669]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.01.31-16.28.48:848][669]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.01.31-16.28.48:848][669]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.01.31-16.28.48:848][669]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.31-16.28.48:848][669]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.01.31-16.28.48:848][669]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.01.31-16.28.49:119][669]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.01.31-16.28.49:119][669]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.01.31-16.28.49:119][669]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.01.31-16.28.49:119][669]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.31-16.28.49:119][669]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.01.31-16.28.49:119][669]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.01.31-16.28.49:122][669]TextureStreamingBuild: Display: Compiling optional shaders took 1.969 seconds.
+[2021.01.31-16.28.49:151][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.31-16.28.49:190][669]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.50:320][669]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.31-16.28.50:414][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/mat/m_tile" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/mat/m_tile.uasset" SILENT=true
+[2021.01.31-16.28.50:431][669]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/m_tileDAC6AFFA4854A2AFAF43D1985BB7337F.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/mat/m_tile.uasset'
+[2021.01.31-16.28.50:453][669]AssetCheck: New page: Asset Save: m_tile
+[2021.01.31-16.28.50:453][669]LogContentValidation: Display: Validating Material /Game/myShit/mat/m_tile.m_tile
+[2021.01.31-16.28.50:454][669]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.01.31-16.28.50:454][669]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2021.01.31-16.28.50:454][669]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.31-16.28.50:454][669]MaterialEditorStats: Texture samplers: 9/16
+[2021.01.31-16.28.50:454][669]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.01.31-16.28.50:454][669]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.31-16.28.51:182][713]LogSlate: Window 'm_tile' being destroyed
+[2021.01.31-16.28.51:188][713]LogSlate: Window 'm_tile' being destroyed
+[2021.01.31-16.28.51:222][713]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-16.28.51:222][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-16.28.57:992][113]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.28.58:589][147]LogMaterial: Display: Material /Game/myShit/mat/m_tile.m_tile needed to have new flag set bUsedWithStaticLighting !
+[2021.01.31-16.28.58:590][147]LogMaterial: Display: Missing cached shader map for material m_tile, compiling. 
+[2021.01.31-16.28.58:631][147]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.01.31-16.28.58:631][147]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.01.31-16.28.58:631][147]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.01.31-16.28.58:631][147]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.31-16.28.58:631][147]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.31-16.28.58:631][147]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.31-16.28.58:631][147]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-16.29.05:243][543]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.29.08:374][730]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.29.12:235][961]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.29.14:176][ 77]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.29.19:540][398]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.29.27:591][880]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.29.29:104][969]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.29.32:371][164]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.29.54:507][651]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.30.03:224][677]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.30.03:257][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.31-16.30.03:335][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/house1_Auto3E4F9E1314057773A3870A8A94D161C14.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/FirstPersonBP/Maps/house1_Auto3.umap'
+[2021.01.31-16.30.03:340][677]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/house1' took 0.089
+[2021.01.31-16.30.03:340][677]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
+[2021.01.31-16.30.03:341][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/myShit/mat/wood/wood_ambientocclusion] ([1] browsable assets)...
+[2021.01.31-16.30.03:347][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/myShit/mat/wood/wood_ambientocclusion.wood_ambientocclusion]
+[2021.01.31-16.30.03:348][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/wood/wood_ambientocclusion]
+[2021.01.31-16.30.03:388][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/wood_ambientocclusion_Auto383105154458433600AB4C7A2728A1947.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/wood/wood_ambientocclusion_Auto3.uasset'
+[2021.01.31-16.30.03:391][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/myShit/mat/wood/wood_basecolor] ([1] browsable assets)...
+[2021.01.31-16.30.03:396][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/myShit/mat/wood/wood_basecolor.wood_basecolor]
+[2021.01.31-16.30.03:396][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/wood/wood_basecolor]
+[2021.01.31-16.30.03:409][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/wood_basecolor_Auto39E9AAAC743DB4C85C4B4A2808A00083E.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/wood/wood_basecolor_Auto3.uasset'
+[2021.01.31-16.30.03:411][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/myShit/mat/wood/wood_height] ([1] browsable assets)...
+[2021.01.31-16.30.03:416][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/myShit/mat/wood/wood_height.wood_height]
+[2021.01.31-16.30.03:416][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/wood/wood_height]
+[2021.01.31-16.30.03:475][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/wood_height_Auto39753692B4CF44470BDCE879A1E3B3A4E.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/wood/wood_height_Auto3.uasset'
+[2021.01.31-16.30.03:478][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/myShit/mat/wood/wood_metallic] ([1] browsable assets)...
+[2021.01.31-16.30.03:480][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/myShit/mat/wood/wood_metallic.wood_metallic]
+[2021.01.31-16.30.03:480][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/wood/wood_metallic]
+[2021.01.31-16.30.03:498][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/wood_metallic_Auto3B8B379044B9A6DBABE378BBD4485D2CF.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/wood/wood_metallic_Auto3.uasset'
+[2021.01.31-16.30.03:499][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/myShit/mat/wood/wood_normal] ([1] browsable assets)...
+[2021.01.31-16.30.03:505][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/myShit/mat/wood/wood_normal.wood_normal]
+[2021.01.31-16.30.03:505][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/wood/wood_normal]
+[2021.01.31-16.30.03:637][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/wood_normal_Auto367C5DBB5467EC43011E9179C9C4F8188.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/wood/wood_normal_Auto3.uasset'
+[2021.01.31-16.30.03:639][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/myShit/mat/wood/wood_roughness] ([1] browsable assets)...
+[2021.01.31-16.30.03:644][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/myShit/mat/wood/wood_roughness.wood_roughness]
+[2021.01.31-16.30.03:644][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/wood/wood_roughness]
+[2021.01.31-16.30.03:676][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/wood_roughness_Auto3055B69064FA039C33524D8991B586969.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/wood/wood_roughness_Auto3.uasset'
+[2021.01.31-16.30.03:683][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/myShit/mat/tileFloor/tileFloor_ambientocclusion] ([1] browsable assets)...
+[2021.01.31-16.30.03:689][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/myShit/mat/tileFloor/tileFloor_ambientocclusion.tileFloor_ambientocclusion]
+[2021.01.31-16.30.03:689][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/tileFloor/tileFloor_ambientocclusion]
+[2021.01.31-16.30.03:700][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/tileFloor_ambientocclusion_Auto3EDA2879B4E4F55B192DD0EA7AD33C416.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/tileFloor/tileFloor_ambientocclusion_Auto3.uasset'
+[2021.01.31-16.30.03:702][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/myShit/mat/tileFloor/tileFloor_basecolor] ([1] browsable assets)...
+[2021.01.31-16.30.03:706][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/myShit/mat/tileFloor/tileFloor_basecolor.tileFloor_basecolor]
+[2021.01.31-16.30.03:706][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/tileFloor/tileFloor_basecolor]
+[2021.01.31-16.30.03:717][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/tileFloor_basecolor_Auto3BBB3462744D161E8D4EC2CAB1CDAA7E7.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/tileFloor/tileFloor_basecolor_Auto3.uasset'
+[2021.01.31-16.30.03:719][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/myShit/mat/tileFloor/tileFloor_height] ([1] browsable assets)...
+[2021.01.31-16.30.03:724][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/myShit/mat/tileFloor/tileFloor_height.tileFloor_height]
+[2021.01.31-16.30.03:724][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/tileFloor/tileFloor_height]
+[2021.01.31-16.30.03:735][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/tileFloor_height_Auto3F64E1618453B3209A01A0F852FCB9C4C.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/tileFloor/tileFloor_height_Auto3.uasset'
+[2021.01.31-16.30.03:737][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/myShit/mat/tileFloor/tileFloor_metallic] ([1] browsable assets)...
+[2021.01.31-16.30.03:739][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/myShit/mat/tileFloor/tileFloor_metallic.tileFloor_metallic]
+[2021.01.31-16.30.03:739][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/tileFloor/tileFloor_metallic]
+[2021.01.31-16.30.03:747][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/tileFloor_metallic_Auto3ABC85D3A4A2429DFFA7FF58D49851A0E.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/tileFloor/tileFloor_metallic_Auto3.uasset'
+[2021.01.31-16.30.03:749][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/myShit/mat/tileFloor/tileFloor_normal] ([1] browsable assets)...
+[2021.01.31-16.30.03:754][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/myShit/mat/tileFloor/tileFloor_normal.tileFloor_normal]
+[2021.01.31-16.30.03:754][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/tileFloor/tileFloor_normal]
+[2021.01.31-16.30.03:770][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/tileFloor_normal_Auto3457EEE564084048EF05421BECD8BE352.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/tileFloor/tileFloor_normal_Auto3.uasset'
+[2021.01.31-16.30.03:772][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/myShit/mat/tileFloor/tileFloor_roughness] ([1] browsable assets)...
+[2021.01.31-16.30.03:777][677]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/myShit/mat/tileFloor/tileFloor_roughness.tileFloor_roughness]
+[2021.01.31-16.30.03:777][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/tileFloor/tileFloor_roughness]
+[2021.01.31-16.30.03:787][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/tileFloor_roughness_Auto3ACA40DF243084A33C04B8F91043AEFAC.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/tileFloor/tileFloor_roughness_Auto3.uasset'
+[2021.01.31-16.30.03:788][677]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/myShit/mat/m_tile] ([1] browsable assets)...
+[2021.01.31-16.30.03:788][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/myShit/mat/m_tile]
+[2021.01.31-16.30.03:788][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/mat/m_tile" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/m_tile_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.01.31-16.30.03:799][677]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/m_tile_Auto3AE6DD476494D7AE7B9EA3FA61785B20A.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/Autosaves/Game/myShit/mat/m_tile_Auto3.uasset'
+[2021.01.31-16.30.03:801][677]LogFileHelpers: Auto-saving content packages took 0.461
+[2021.01.31-16.31.21:756][973]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-16.31.21:773][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-16.31.21:773][973]PIE: New page: PIE session: house1 (Jan 31, 2021, 6:31:21 AM)
+[2021.01.31-16.31.21:773][973]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-16.31.21:798][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025269s)
+[2021.01.31-16.31.21:800][973]LogAIModule: Creating AISystem for world house1
+[2021.01.31-16.31.21:800][973]LogPlayLevel: PIE: World Init took: (0.001889s)
+[2021.01.31-16.31.21:800][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/house1.house1 to /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 (0.027406s)
+[2021.01.31-16.31.21:809][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.01.31-16.31.21:811][973]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.01.31-16.31.21:811][973]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-16.31.21:811][973]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-16.31.21:811][973]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-16.31.21:811][973]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-16.31.21:811][973]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-16.31.21:811][973]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-16.31.21:811][973]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-16.31.21:811][973]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-16.31.21:812][973]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-16.31.21:812][973]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-16.31.21:820][973]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-16.31.21:820][973]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-16.31.21:820][973]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-16.31.21:820][973]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-16.31.21:820][973]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-16.31.21:820][973]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-16.31.21:820][973]LogAudioMixer: Display: 6: SideLeft
+[2021.01.31-16.31.21:820][973]LogAudioMixer: Display: 7: SideRight
+[2021.01.31-16.31.21:834][973]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.31-16.31.21:834][973]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-16.31.21:834][973]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-16.31.21:834][973]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-16.31.21:835][973]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-16.31.21:835][973]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-16.31.21:835][973]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.31-16.31.21:854][973]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-16.31.21:854][973]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-16.31.21:854][973]LogInit: FAudioDevice initialized.
+[2021.01.31-16.31.21:854][973]LogAudio: Display: Audio Device (ID: 5) registered with world 'house1'.
+[2021.01.31-16.31.21:866][973]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.31-16.31.21:873][973]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 up for play (max tick rate 60) at 2021.01.31-11.31.21
+[2021.01.31-16.31.21:873][973]LogWorld: Bringing up level for play took: 0.005742
+[2021.01.31-16.31.21:874][973]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.01.31-16.31.21:879][973]LogScript: Warning: Accessed None trying to read property CallFunc_GetTimerWidget_Widget
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00AB
+[2021.01.31-16.31.21:879][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetTimerWidget_Widget". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-16.31.21:879][973]LogScript: Warning: Attempted to assign to None
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00C0
+[2021.01.31-16.31.21:879][973]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-16.31.21:880][973]PIE: Server logged in
+[2021.01.31-16.31.21:881][973]PIE: Play in editor total start time 0.113 seconds.
+[2021.01.31-16.31.49:079][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-16.31.49:080][601]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-16.31.49:080][601]LogWorld: UWorld::CleanupWorld for house1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-16.31.49:081][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-16.31.49:089][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-16.31.49:103][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-16.31.49:108][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-16.31.49:108][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-16.31.49:109][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-16.31.49:126][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-16.31.49:128][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.31-16.31.49:144][601]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.31.49:170][601]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.31.49:235][602]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.01.31-16.31.50:959][699]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-16.31.50:975][699]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-16.31.54:443][907]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.32.05:037][542]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-16.32.05:053][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-16.32.05:054][542]PIE: New page: PIE session: house1 (Jan 31, 2021, 6:32:05 AM)
+[2021.01.31-16.32.05:054][542]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-16.32.05:073][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019105s)
+[2021.01.31-16.32.05:074][542]LogAIModule: Creating AISystem for world house1
+[2021.01.31-16.32.05:075][542]LogPlayLevel: PIE: World Init took: (0.001710s)
+[2021.01.31-16.32.05:075][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/house1.house1 to /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 (0.021033s)
+[2021.01.31-16.32.05:082][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.01.31-16.32.05:084][542]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.01.31-16.32.05:085][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-16.32.05:085][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-16.32.05:085][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-16.32.05:085][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-16.32.05:085][542]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-16.32.05:085][542]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-16.32.05:085][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-16.32.05:085][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-16.32.05:086][542]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-16.32.05:086][542]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-16.32.05:092][542]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-16.32.05:092][542]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-16.32.05:092][542]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-16.32.05:092][542]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-16.32.05:092][542]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-16.32.05:092][542]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-16.32.05:092][542]LogAudioMixer: Display: 6: SideLeft
+[2021.01.31-16.32.05:092][542]LogAudioMixer: Display: 7: SideRight
+[2021.01.31-16.32.05:104][542]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.31-16.32.05:105][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-16.32.05:105][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-16.32.05:105][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-16.32.05:105][542]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-16.32.05:105][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-16.32.05:105][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.31-16.32.05:125][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-16.32.05:125][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-16.32.05:125][542]LogInit: FAudioDevice initialized.
+[2021.01.31-16.32.05:125][542]LogAudio: Display: Audio Device (ID: 6) registered with world 'house1'.
+[2021.01.31-16.32.05:134][542]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.31-16.32.05:141][542]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 up for play (max tick rate 60) at 2021.01.31-11.32.05
+[2021.01.31-16.32.05:142][542]LogWorld: Bringing up level for play took: 0.006024
+[2021.01.31-16.32.05:142][542]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.01.31-16.32.05:146][542]LogScript: Warning: Accessed None trying to read property CallFunc_GetTimerWidget_Widget
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00AB
+[2021.01.31-16.32.05:146][542]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetTimerWidget_Widget". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-16.32.05:146][542]LogScript: Warning: Attempted to assign to None
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00C0
+[2021.01.31-16.32.05:146][542]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-16.32.05:147][542]PIE: Server logged in
+[2021.01.31-16.32.05:148][542]PIE: Play in editor total start time 0.099 seconds.
+[2021.01.31-16.32.08:440][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-16.32.08:440][736]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-16.32.08:440][736]LogWorld: UWorld::CleanupWorld for house1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-16.32.08:441][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-16.32.08:447][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-16.32.08:461][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-16.32.08:466][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-16.32.08:466][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-16.32.08:468][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-16.32.08:486][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.01.31-16.32.08:502][736]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.32.08:526][736]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.32.08:583][737]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.01.31-16.32.10:202][827]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-16.32.10:219][827]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-16.32.12:577][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_stairs_A)
+[2021.01.31-16.32.27:982][886]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.32.27:998][886]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_stairs_A.prop_stairs_A
+[2021.01.31-16.32.28:023][886]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.32.28:535][887]LogRenderer: Reallocating scene render targets to support 936x704 Format 10 NumSamples 1 (Frame:1).
+[2021.01.31-16.32.44:500][820]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.32.47:505][980]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.32.47:531][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_stairs_A" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_stairs_A.uasset" SILENT=true
+[2021.01.31-16.32.47:561][980]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_stairs_A845050BC45B35BD11AC1388EC62675E2.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_stairs_A.uasset'
+[2021.01.31-16.32.47:579][980]AssetCheck: New page: Asset Save: prop_stairs_A
+[2021.01.31-16.32.47:579][980]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_stairs_A.prop_stairs_A
+[2021.01.31-16.32.48:711][ 46]LogSlate: Window 'prop_stairs_A' being destroyed
+[2021.01.31-16.32.48:717][ 46]LogSlate: Window 'prop_stairs_A' being destroyed
+[2021.01.31-16.32.48:731][ 46]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-16.32.48:731][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-16.32.49:405][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-16.32.49:422][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-16.32.49:423][ 82]PIE: New page: PIE session: house1 (Jan 31, 2021, 6:32:49 AM)
+[2021.01.31-16.32.49:423][ 82]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-16.32.49:442][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019535s)
+[2021.01.31-16.32.49:443][ 82]LogAIModule: Creating AISystem for world house1
+[2021.01.31-16.32.49:443][ 82]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2021.01.31-16.32.49:444][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/house1.house1 to /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 (0.020853s)
+[2021.01.31-16.32.49:450][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.01.31-16.32.49:454][ 82]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.01.31-16.32.49:455][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-16.32.49:455][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-16.32.49:455][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-16.32.49:455][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-16.32.49:455][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-16.32.49:455][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-16.32.49:455][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-16.32.49:455][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-16.32.49:455][ 82]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-16.32.49:455][ 82]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-16.32.49:460][ 82]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-16.32.49:460][ 82]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-16.32.49:460][ 82]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-16.32.49:460][ 82]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-16.32.49:461][ 82]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-16.32.49:461][ 82]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-16.32.49:461][ 82]LogAudioMixer: Display: 6: SideLeft
+[2021.01.31-16.32.49:461][ 82]LogAudioMixer: Display: 7: SideRight
+[2021.01.31-16.32.49:470][ 82]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.31-16.32.49:471][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-16.32.49:471][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-16.32.49:471][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-16.32.49:471][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-16.32.49:471][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-16.32.49:471][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.31-16.32.49:487][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-16.32.49:487][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-16.32.49:487][ 82]LogInit: FAudioDevice initialized.
+[2021.01.31-16.32.49:487][ 82]LogAudio: Display: Audio Device (ID: 7) registered with world 'house1'.
+[2021.01.31-16.32.49:495][ 82]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.31-16.32.49:500][ 82]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 up for play (max tick rate 60) at 2021.01.31-11.32.49
+[2021.01.31-16.32.49:501][ 82]LogWorld: Bringing up level for play took: 0.004401
+[2021.01.31-16.32.49:501][ 82]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.01.31-16.32.49:504][ 82]LogScript: Warning: Accessed None trying to read property CallFunc_GetTimerWidget_Widget
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00AB
+[2021.01.31-16.32.49:504][ 82]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetTimerWidget_Widget". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-16.32.49:504][ 82]LogScript: Warning: Attempted to assign to None
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00C0
+[2021.01.31-16.32.49:504][ 82]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-16.32.49:504][ 82]PIE: Server logged in
+[2021.01.31-16.32.49:505][ 82]PIE: Play in editor total start time 0.087 seconds.
+[2021.01.31-16.34.55:549][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-16.34.55:549][642]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-16.34.55:549][642]LogWorld: UWorld::CleanupWorld for house1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-16.34.55:550][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-16.34.55:558][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-16.34.55:572][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-16.34.55:577][642]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-16.34.55:577][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-16.34.55:578][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-16.34.55:596][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-16.34.55:599][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.01.31-16.34.55:614][642]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.34.55:640][642]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.34.55:696][643]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.01.31-16.34.57:301][731]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-16.34.57:315][731]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-16.35.02:568][ 39]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.35.04:708][163]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.35.08:126][368]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.35.08:243][375]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.35.29:753][665]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.35.29:768][665]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/myShit/mat/m_concrete.m_concrete
+[2021.01.31-16.35.29:769][665]LogMaterial: Display: Missing cached shader map for material m_concrete, compiling. 
+[2021.01.31-16.35.29:820][665]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-16.35.29:890][665]LogMaterial: Display: Missing cached shader map for material m_concrete, compiling. 
+[2021.01.31-16.35.29:897][665]LogMaterial: Display: Missing cached shader map for material m_concrete, compiling. 
+[2021.01.31-16.35.29:911][665]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-16.35.29:911][665]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-16.35.29:911][665]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-16.35.29:911][665]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-16.35.29:911][665]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-16.35.29:911][665]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-16.35.29:911][665]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-16.35.29:911][665]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-16.35.31:415][712]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.31-16.35.32:238][746]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.01.31-16.35.32:238][746]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.01.31-16.35.32:238][746]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.31-16.35.32:238][746]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.31-16.35.47:811][653]LogSlate: Window 'm_concrete' being destroyed
+[2021.01.31-16.35.47:827][653]LogSlate: Window 'm_concrete' being destroyed
+[2021.01.31-16.35.47:885][653]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-16.35.47:885][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
