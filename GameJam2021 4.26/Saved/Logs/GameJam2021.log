@@ -1595,3 +1595,762 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-02.52.35:748][890]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.31-02.52.35:748][890]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/house1_BuiltData.house1_BuiltData
 [2021.01.31-02.52.35:748][890]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/house1.house1
+[2021.01.31-02.58.14:133][319]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.58.14:148][319]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/myShit/mat/m_boxMirror.m_boxMirror
+[2021.01.31-02.58.14:149][319]LogMaterial: Display: Missing cached shader map for material m_boxMirror, compiling. 
+[2021.01.31-02.58.14:200][319]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.58.14:307][319]LogMaterial: Display: Missing cached shader map for material m_boxMirror, compiling. 
+[2021.01.31-02.58.14:315][319]LogMaterial: Display: Missing cached shader map for material m_boxMirror, compiling. 
+[2021.01.31-02.58.14:329][319]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.31-02.58.14:329][319]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.31-02.58.14:329][319]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.31-02.58.14:329][319]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.31-02.58.14:329][319]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.31-02.58.14:329][319]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.31-02.58.14:329][319]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.31-02.58.14:329][319]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.31-02.58.14:334][319]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.31-02.58.14:340][319]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.31-02.58.14:344][319]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.31-02.58.15:835][354]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.01.31-02.58.15:927][358]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.01.31-02.58.16:240][370]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.01.31-02.58.16:448][377]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.01.31-02.58.16:500][379]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.31-02.58.16:641][385]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.01.31-02.58.16:690][387]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.01.31-02.58.16:717][388]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.01.31-02.58.17:307][410]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.01.31-02.58.17:357][412]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.01.31-02.58.17:386][413]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.31-02.58.17:513][418]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.31-02.58.17:580][420]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.01.31-02.58.17:580][420]MaterialEditorStats: Base pass shader with Surface Lightmap: 157 instructions
+[2021.01.31-02.58.17:581][420]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.01.31-02.58.17:581][420]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.31-02.58.17:581][420]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.31-02.58.17:581][420]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.31-02.58.17:581][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.31-02.58.17:645][423]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-02.58.17:667][424]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.01.31-02.58.17:691][425]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.31-02.58.26:043][909]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.58.27:365][988]LogMaterial: Display: Missing cached shader map for material m_boxMirror, compiling. 
+[2021.01.31-02.58.27:379][988]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.31-02.58.27:379][988]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.31-02.58.27:379][988]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.31-02.58.27:379][988]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.31-02.58.27:379][988]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.31-02.58.27:379][988]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.31-02.58.27:379][988]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.31-02.58.27:379][988]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.31-02.58.27:381][988]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.31-02.58.28:303][ 25]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.31-02.58.28:450][ 30]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.31-02.58.28:801][ 43]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.31-02.58.28:976][ 49]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.01.31-02.58.29:033][ 51]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.01.31-02.58.29:060][ 52]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.31-02.58.29:112][ 54]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.01.31-02.58.29:814][ 80]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.01.31-02.58.29:815][ 80]MaterialEditorStats: Base pass shader with Surface Lightmap: 157 instructions
+[2021.01.31-02.58.29:815][ 80]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.01.31-02.58.29:815][ 80]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.31-02.58.29:815][ 80]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.31-02.58.29:815][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.31-02.58.29:815][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.31-02.58.36:724][491]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.58.37:947][563]LogMaterial: Display: Missing cached shader map for material m_boxMirror, compiling. 
+[2021.01.31-02.58.37:961][563]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.31-02.58.37:961][563]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.31-02.58.37:961][563]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.31-02.58.37:961][563]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.31-02.58.37:961][563]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.31-02.58.37:961][563]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.31-02.58.37:961][563]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.31-02.58.37:961][563]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.31-02.58.37:962][563]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.31-02.58.38:876][598]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.31-02.58.39:065][605]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.31-02.58.39:274][612]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.31-02.58.39:543][621]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.01.31-02.58.39:572][622]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.01.31-02.58.39:637][624]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.31-02.58.39:637][624]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.01.31-02.58.40:409][653]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.01.31-02.58.40:410][653]MaterialEditorStats: Base pass shader with Surface Lightmap: 157 instructions
+[2021.01.31-02.58.40:410][653]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.01.31-02.58.40:410][653]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.31-02.58.40:410][653]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.31-02.58.40:410][653]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.31-02.58.40:410][653]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.31-02.58.45:224][941]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.58.46:286][  4]LogMaterial: Display: Missing cached shader map for material m_boxMirror, compiling. 
+[2021.01.31-02.58.46:300][  4]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.31-02.58.46:300][  4]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.31-02.58.46:300][  4]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.31-02.58.46:300][  4]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.31-02.58.46:300][  4]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.31-02.58.46:300][  4]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.31-02.58.46:300][  4]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.31-02.58.46:300][  4]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.31-02.58.46:301][  4]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.31-02.58.47:306][ 41]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.31-02.58.47:384][ 44]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.31-02.58.47:760][ 58]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.31-02.58.47:913][ 63]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.01.31-02.58.47:944][ 64]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.01.31-02.58.47:992][ 66]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.31-02.58.48:020][ 67]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.01.31-02.58.48:784][ 96]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.01.31-02.58.48:784][ 96]MaterialEditorStats: Base pass shader with Surface Lightmap: 157 instructions
+[2021.01.31-02.58.48:784][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.01.31-02.58.48:784][ 96]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.31-02.58.48:784][ 96]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.31-02.58.48:784][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.31-02.58.48:785][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.31-02.58.52:501][317]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.58.53:541][378]LogMaterial: Display: Missing cached shader map for material m_boxMirror, compiling. 
+[2021.01.31-02.58.53:553][378]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.31-02.58.53:558][378]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.31-02.58.53:558][378]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.31-02.58.53:558][378]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.31-02.58.53:558][378]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.31-02.58.53:558][378]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.31-02.58.53:558][378]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.31-02.58.53:558][378]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.31-02.58.53:558][378]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.31-02.58.54:542][415]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.31-02.58.54:684][420]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.31-02.58.55:039][432]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.31-02.58.55:120][435]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.31-02.58.55:163][437]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.31-02.58.55:246][440]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.31-02.58.55:351][444]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.01.31-02.58.56:163][475]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.01.31-02.58.56:163][475]MaterialEditorStats: Base pass shader with Surface Lightmap: 157 instructions
+[2021.01.31-02.58.56:163][475]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.01.31-02.58.56:163][475]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.31-02.58.56:163][475]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.31-02.58.56:163][475]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.31-02.58.56:163][475]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.31-02.59.14:097][551]LogMaterialEditor: Saving and Compiling material m_boxMirror
+[2021.01.31-02.59.14:666][551]LogMaterial: Display: Missing cached shader map for material m_boxMirror, compiling. 
+[2021.01.31-02.59.14:695][551]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.59.14:704][551]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.31-02.59.14:705][551]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.31-02.59.14:705][551]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.31-02.59.14:705][551]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.31-02.59.14:705][551]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.31-02.59.14:705][551]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.01.31-02.59.14:705][551]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.31-02.59.14:705][551]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.01.31-02.59.14:713][551]LogMaterial: Display: Missing cached shader map for material m_boxMirror, compiling. 
+[2021.01.31-02.59.14:778][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.01.31-02.59.14:787][551]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.31-02.59.15:355][551]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2021.01.31-02.59.15:915][551]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2021.01.31-02.59.15:915][551]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.01.31-02.59.15:915][551]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2021.01.31-02.59.15:915][551]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.01.31-02.59.15:915][551]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.01.31-02.59.15:915][551]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.01.31-02.59.15:915][551]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.01.31-02.59.16:279][551]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.01.31-02.59.16:279][551]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.31-02.59.16:279][551]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.31-02.59.16:279][551]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.01.31-02.59.16:279][551]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.31-02.59.16:284][551]TextureStreamingBuild: Display: Compiling optional shaders took 1.504 seconds.
+[2021.01.31-02.59.16:295][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.01.31-02.59.16:344][551]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.59.17:477][551]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.01.31-02.59.17:477][551]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.01.31-02.59.18:034][551]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.01.31-02.59.18:034][551]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-02.59.18:034][551]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.31-02.59.18:494][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/mat/m_boxMirror" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/mat/m_boxMirror.uasset" SILENT=true
+[2021.01.31-02.59.18:508][551]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/m_boxMirror2BBBA0274E1756B39E63BE801B3C06EC.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/mat/m_boxMirror.uasset'
+[2021.01.31-02.59.18:529][551]AssetCheck: New page: Asset Save: m_boxMirror
+[2021.01.31-02.59.18:529][551]LogContentValidation: Display: Validating Material /Game/myShit/mat/m_boxMirror.m_boxMirror
+[2021.01.31-02.59.18:530][551]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.01.31-02.59.18:530][551]MaterialEditorStats: Base pass shader with Surface Lightmap: 157 instructions
+[2021.01.31-02.59.18:530][551]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.01.31-02.59.18:530][551]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.31-02.59.18:530][551]MaterialEditorStats: Texture samplers: 6/16
+[2021.01.31-02.59.18:530][551]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.31-02.59.18:530][551]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.31-02.59.21:746][661]LogSlate: Window 'm_boxMirror' being destroyed
+[2021.01.31-02.59.21:751][661]LogSlate: Window 'm_boxMirror' being destroyed
+[2021.01.31-02.59.21:787][661]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-02.59.21:787][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.00.15:747][393]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.00.16:452][432]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.00.16:751][449]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.00.25:384][963]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.00.25:401][963]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/myShit/mat/m_reflect_test.m_reflect_test
+[2021.01.31-03.00.25:402][963]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.00.25:453][963]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.00.25:547][963]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.00.25:556][963]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.00.25:567][963]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-03.00.25:567][963]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-03.00.25:567][963]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-03.00.25:567][963]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-03.00.25:567][963]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-03.00.25:567][963]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-03.00.25:567][963]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-03.00.25:567][963]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-03.00.26:976][990]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.31-03.00.27:738][ 15]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.01.31-03.00.27:738][ 15]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.01.31-03.00.27:739][ 15]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.31-03.00.27:739][ 15]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.31-03.00.31:283][226]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.00.31:710][250]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.00.31:717][250]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.31-03.00.31:721][250]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-03.00.31:721][250]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-03.00.31:721][250]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-03.00.31:721][250]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-03.00.31:721][250]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-03.00.31:721][250]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-03.00.31:721][250]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-03.00.31:721][250]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-03.00.32:628][283]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.31-03.00.32:739][287]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-03.00.33:013][296]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.31-03.00.33:220][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-03.00.33:248][304]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.31-03.00.33:485][313]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.01.31-03.00.33:485][313]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.01.31-03.00.33:485][313]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.31-03.00.33:485][313]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.31-03.00.35:707][438]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.00.39:681][673]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.00.39:696][673]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-03.00.39:696][673]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-03.00.39:696][673]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-03.00.39:696][673]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-03.00.39:696][673]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-03.00.39:696][673]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-03.00.39:696][673]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-03.00.39:696][673]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-03.00.39:698][673]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.31-03.00.39:714][673]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.31-03.00.39:721][673]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.00.39:737][673]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.31-03.00.39:744][673]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.00.39:754][673]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-03.00.40:595][700]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.01.31-03.00.40:746][705]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.01.31-03.00.41:287][723]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.01.31-03.00.41:373][726]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.31-03.00.41:436][728]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.01.31-03.00.41:495][730]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.01.31-03.00.41:524][731]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.01.31-03.00.41:524][731]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.31-03.00.41:558][732]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.01.31-03.00.41:580][732]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.00.41:854][742]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-03.00.42:194][751]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.00.42:218][751]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.31-03.00.42:298][753]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.31-03.00.42:489][760]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.31-03.00.42:515][761]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.31-03.00.42:786][771]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.01.31-03.00.43:062][780]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.31-03.00.43:090][781]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.01.31-03.00.43:119][782]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-03.00.43:145][783]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.01.31-03.00.43:342][790]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.01.31-03.00.43:745][803]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.31-03.00.43:841][805]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.00.43:877][805]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.31-03.00.43:969][809]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-03.00.44:194][817]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.31-03.00.44:243][817]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.00.44:329][819]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-03.00.44:571][827]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.01.31-03.00.44:628][829]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.31-03.00.44:658][830]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.01.31-03.00.44:692][831]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-03.00.44:967][841]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.01.31-03.00.45:118][846]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.01.31-03.00.45:118][846]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.31-03.00.45:355][852]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.00.45:465][855]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.01.31-03.00.46:233][880]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.00.46:242][880]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-03.00.46:242][880]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-03.00.46:242][880]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-03.00.46:242][880]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.01.31-03.00.46:242][880]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.31-03.00.46:376][885]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.01.31-03.00.46:376][885]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.31-03.00.46:424][887]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-03.00.47:225][914]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.31-03.00.47:963][941]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.01.31-03.00.47:963][941]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.01.31-03.00.47:963][941]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.31-03.00.47:963][941]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.31-03.00.51:644][160]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.00.51:651][160]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.00.51:666][161]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-03.00.51:667][161]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-03.00.51:667][161]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-03.00.51:667][161]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-03.00.51:667][161]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-03.00.51:667][161]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-03.00.51:667][161]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-03.00.51:667][161]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-03.00.52:628][195]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.31-03.00.53:409][223]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.01.31-03.00.53:409][223]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.01.31-03.00.53:409][223]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.31-03.00.53:409][223]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.31-03.00.59:911][602]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.01.00:589][641]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.01.00:608][642]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-03.01.00:608][642]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-03.01.00:608][642]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-03.01.00:608][642]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-03.01.00:608][642]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-03.01.00:608][642]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-03.01.00:608][642]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-03.01.00:608][642]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-03.01.01:489][675]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.31-03.01.01:553][676]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.01.02:303][702]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.01.31-03.01.02:303][702]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.01.31-03.01.02:303][702]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.31-03.01.02:303][702]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.31-03.01.02:353][704]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.01.02:373][705]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-03.01.02:373][705]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-03.01.02:373][705]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-03.01.02:373][705]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-03.01.02:373][705]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-03.01.02:373][705]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-03.01.02:373][705]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-03.01.02:373][705]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-03.01.03:281][737]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.01.31-03.01.04:017][765]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.01.31-03.01.04:017][765]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.01.31-03.01.04:017][765]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.31-03.01.04:017][765]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.31-03.01.30:785][341]LogMaterialEditor: Saving and Compiling material m_reflect_test
+[2021.01.31-03.01.31:360][341]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.01.31:386][341]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.01.31:393][341]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.31-03.01.31:393][341]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.31-03.01.31:393][341]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.31-03.01.31:393][341]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-03.01.31:393][341]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.31-03.01.31:393][341]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.31-03.01.31:393][341]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.31-03.01.31:393][341]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.31-03.01.31:402][341]LogMaterial: Display: Missing cached shader map for material m_reflect_test, compiling. 
+[2021.01.31-03.01.31:429][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.01.31-03.01.31:436][341]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.31-03.01.32:555][341]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.01.31-03.01.32:555][341]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.01.31-03.01.33:114][341]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.31-03.01.33:114][341]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.01.31-03.01.33:114][341]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.01.31-03.01.33:114][341]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.31-03.01.33:114][341]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.01.31-03.01.33:114][341]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.01.31-03.01.33:114][341]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.31-03.01.33:114][341]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.01.31-03.01.33:159][341]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.01.31-03.01.33:164][341]TextureStreamingBuild: Display: Compiling optional shaders took 1.733 seconds.
+[2021.01.31-03.01.33:174][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.01.31-03.01.33:232][341]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.01.34:367][341]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.01.31-03.01.34:415][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/mat/m_reflect_test" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/mat/m_reflect_test.uasset" SILENT=true
+[2021.01.31-03.01.34:426][341]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/m_reflect_testA4B24CE140F52EA02C47279336B09A74.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/mat/m_reflect_test.uasset'
+[2021.01.31-03.01.34:446][341]AssetCheck: New page: Asset Save: m_reflect_test
+[2021.01.31-03.01.34:446][341]LogContentValidation: Display: Validating Material /Game/myShit/mat/m_reflect_test.m_reflect_test
+[2021.01.31-03.01.34:446][341]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.01.31-03.01.34:446][341]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.01.31-03.01.34:446][341]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.31-03.01.34:446][341]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.31-03.02.26:338][434]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.03.24:182][894]LogSlate: Window 'm_reflect_test' being destroyed
+[2021.01.31-03.03.24:189][894]LogSlate: Window 'm_reflect_test' being destroyed
+[2021.01.31-03.03.24:218][894]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.03.24:218][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.03.25:067][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (prop_boxmirror)
+[2021.01.31-03.03.26:263][ 14]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.03.38:828][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (prop_boxmirror)
+[2021.01.31-03.03.41:202][891]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.03.45:904][164]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-03.03.45:923][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-03.03.45:923][164]PIE: New page: PIE session: house1 (Jan 30, 2021, 5:03:45 PM)
+[2021.01.31-03.03.45:923][164]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-03.03.45:942][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018867s)
+[2021.01.31-03.03.45:943][164]LogAIModule: Creating AISystem for world house1
+[2021.01.31-03.03.45:943][164]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2021.01.31-03.03.45:943][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/house1.house1 to /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 (0.020136s)
+[2021.01.31-03.03.45:950][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.01.31-03.03.45:955][164]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.01.31-03.03.45:955][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-03.03.45:955][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-03.03.45:955][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-03.03.45:955][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-03.03.45:955][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-03.03.45:955][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-03.03.45:955][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-03.03.45:955][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-03.03.45:955][164]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-03.03.45:955][164]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-03.03.45:962][164]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-03.03.45:962][164]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-03.03.45:962][164]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-03.03.45:962][164]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-03.03.45:962][164]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-03.03.45:962][164]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-03.03.45:962][164]LogAudioMixer: Display: 6: SideLeft
+[2021.01.31-03.03.45:962][164]LogAudioMixer: Display: 7: SideRight
+[2021.01.31-03.03.45:974][164]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.31-03.03.45:975][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-03.03.45:975][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-03.03.45:975][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-03.03.45:975][164]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-03.03.45:975][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-03.03.45:975][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.31-03.03.45:997][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-03.03.45:997][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-03.03.45:997][164]LogInit: FAudioDevice initialized.
+[2021.01.31-03.03.45:997][164]LogAudio: Display: Audio Device (ID: 3) registered with world 'house1'.
+[2021.01.31-03.03.46:010][164]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.31-03.03.46:016][164]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1 up for play (max tick rate 60) at 2021.01.30-22.03.46
+[2021.01.31-03.03.46:016][164]LogWorld: Bringing up level for play took: 0.005235
+[2021.01.31-03.03.46:016][164]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.01.31-03.03.46:020][164]LogScript: Warning: Accessed None trying to read property CallFunc_GetTimerWidget_Widget
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00AB
+[2021.01.31-03.03.46:020][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetTimerWidget_Widget". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-03.03.46:020][164]LogScript: Warning: Attempted to assign to None
+	OurGamesController_C /Game/FirstPersonBP/Maps/UEDPIE_0_house1.house1:PersistentLevel.OurGamesController_C_0
+	Function /Game/FirstPersonBP/Blueprints/Core/OurGamesController.OurGamesController_C:SetPlayerTimerMax:00C0
+[2021.01.31-03.03.46:020][164]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  OurGamesController Function:  Set Player Timer Max Graph:  SetPlayerTimerMax Node:  Set MaxTime
+[2021.01.31-03.03.46:021][164]PIE: Server logged in
+[2021.01.31-03.03.46:022][164]PIE: Play in editor total start time 0.105 seconds.
+[2021.01.31-03.04.30:973][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-03.04.30:973][856]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_house1
+[2021.01.31-03.04.30:974][856]LogWorld: UWorld::CleanupWorld for house1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.04.30:974][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.04.30:982][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-03.04.30:995][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.04.31:001][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-03.04.31:001][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-03.04.31:002][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-03.04.31:023][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.01.31-03.04.31:040][856]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.04.31:065][856]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.04.31:133][857]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.31-03.04.32:468][929]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-03.04.32:477][929]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-03.04.33:177][971]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.04.33:199][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.01.31-03.04.33:290][971]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/house1793A774742A5C060AB43EC9ED002F76B.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Maps/house1.umap'
+[2021.01.31-03.04.33:318][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/house1_BuiltData" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Maps/house1_BuiltData.uasset" SILENT=true
+[2021.01.31-03.04.33:567][971]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/house1_BuiltData4471A11B400EB48481F1088A89750BB9.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Maps/house1_BuiltData.uasset'
+[2021.01.31-03.04.33:581][971]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-03.04.33:581][971]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/house1_BuiltData.house1_BuiltData
+[2021.01.31-03.04.33:581][971]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/house1.house1
+[2021.01.31-03.04.44:911][616]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.04.44:925][616]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_boxmirror.prop_boxmirror
+[2021.01.31-03.04.44:964][616]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.04.45:505][616]LogSlate: Took 0.000994 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.31-03.04.46:971][693]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.04.50:961][905]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.04.50:991][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_boxmirror" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_boxmirror.uasset" SILENT=true
+[2021.01.31-03.04.51:006][905]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_boxmirror7E341B8E4DDA7F7D9E153FA315CBBE65.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_boxmirror.uasset'
+[2021.01.31-03.04.51:026][905]AssetCheck: New page: Asset Save: prop_boxmirror
+[2021.01.31-03.04.51:026][905]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_boxmirror.prop_boxmirror
+[2021.01.31-03.04.53:321][ 40]LogSlate: Window 'prop_boxmirror' being destroyed
+[2021.01.31-03.04.53:328][ 40]LogSlate: Window 'prop_boxmirror' being destroyed
+[2021.01.31-03.04.53:378][ 40]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.04.53:378][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.05.02:678][442]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.02:693][442]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_frametable.prop_frametable
+[2021.01.31-03.05.02:717][442]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.04:879][527]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.09:901][804]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.09:927][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_frametable" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_frametable.uasset" SILENT=true
+[2021.01.31-03.05.09:943][804]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_frametableAA2DD9A74D54D3F1A1DC858AA4D2DAAE.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_frametable.uasset'
+[2021.01.31-03.05.09:964][804]AssetCheck: New page: Asset Save: prop_frametable
+[2021.01.31-03.05.09:964][804]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_frametable.prop_frametable
+[2021.01.31-03.05.11:022][864]LogSlate: Window 'prop_frametable' being destroyed
+[2021.01.31-03.05.11:036][864]LogSlate: Window 'prop_frametable' being destroyed
+[2021.01.31-03.05.11:052][864]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.05.11:052][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.05.12:101][912]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.12:116][912]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_framewall.prop_framewall
+[2021.01.31-03.05.12:141][912]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.14:199][990]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.17:825][162]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.17:856][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_framewall" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_framewall.uasset" SILENT=true
+[2021.01.31-03.05.17:872][162]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_framewall229B23A74A6A4FE31CCA7CAB9C844A3D.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_framewall.uasset'
+[2021.01.31-03.05.17:891][162]AssetCheck: New page: Asset Save: prop_framewall
+[2021.01.31-03.05.17:891][162]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_framewall.prop_framewall
+[2021.01.31-03.05.19:184][235]LogSlate: Window 'prop_framewall' being destroyed
+[2021.01.31-03.05.19:191][235]LogSlate: Window 'prop_framewall' being destroyed
+[2021.01.31-03.05.19:207][235]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.05.19:208][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.05.20:555][295]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.20:571][295]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_fridge.prop_fridge
+[2021.01.31-03.05.20:598][295]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.23:022][382]LogSlate: Window 'prop_fridge' being destroyed
+[2021.01.31-03.05.23:050][382]LogSlate: Window 'prop_fridge' being destroyed
+[2021.01.31-03.05.23:088][382]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.05.23:088][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.05.25:975][516]LogMaterial: Display: Missing cached shader map for material m_lightBoob, compiling. 
+[2021.01.31-03.05.25:982][516]LogStaticMesh: Building static mesh prop_light...
+[2021.01.31-03.05.25:986][516]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.25:994][516]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.01.31-03.05.25:994][516]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.31-03.05.25:994][516]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.31-03.05.25:995][516]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.31-03.05.25:995][516]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.31-03.05.25:995][516]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.31-03.05.26:010][516]LogStaticMesh: Built static mesh [0.03s] /Game/myShit/geo/prop_light.prop_light
+[2021.01.31-03.05.26:032][516]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.26:052][516]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_light.prop_light
+[2021.01.31-03.05.26:081][516]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.28:555][563]LogSlate: Window 'prop_light' being destroyed
+[2021.01.31-03.05.28:599][563]LogSlate: Window 'prop_light' being destroyed
+[2021.01.31-03.05.28:625][563]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.05.28:625][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.05.32:209][736]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.32:222][736]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_light.prop_light
+[2021.01.31-03.05.32:248][736]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.33:869][792]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.35:964][898]LogSlate: Window 'prop_light' being destroyed
+[2021.01.31-03.05.35:984][898]LogSlate: Window 'prop_light' being destroyed
+[2021.01.31-03.05.35:999][898]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.05.35:999][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.05.39:576][ 81]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.39:595][ 81]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_radiator.prop_radiator
+[2021.01.31-03.05.39:620][ 81]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.42:134][184]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.47:300][453]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.47:329][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_radiator" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_radiator.uasset" SILENT=true
+[2021.01.31-03.05.47:351][453]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_radiator08B83AC54374DE3F1AEAA4B78C874867.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_radiator.uasset'
+[2021.01.31-03.05.47:371][453]AssetCheck: New page: Asset Save: prop_radiator
+[2021.01.31-03.05.47:371][453]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_radiator.prop_radiator
+[2021.01.31-03.05.48:490][519]LogSlate: Window 'prop_radiator' being destroyed
+[2021.01.31-03.05.48:497][519]LogSlate: Window 'prop_radiator' being destroyed
+[2021.01.31-03.05.48:548][519]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.05.48:548][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.05.56:132][636]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.05.56:158][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.01.31-03.05.56:259][636]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/house10419C1054EC12E6A77F157993389D7D2.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Maps/house1.umap'
+[2021.01.31-03.05.56:289][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/house1_BuiltData" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Maps/house1_BuiltData.uasset" SILENT=true
+[2021.01.31-03.05.56:573][636]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/house1_BuiltDataB98FC2544C8E21CDE246419731900679.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Maps/house1_BuiltData.uasset'
+[2021.01.31-03.05.56:587][636]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-03.05.56:587][636]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/house1_BuiltData.house1_BuiltData
+[2021.01.31-03.05.56:587][636]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/house1.house1
+[2021.01.31-03.06.03:995][962]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.04:014][962]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_showertub.prop_showertub
+[2021.01.31-03.06.04:038][962]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.05:787][ 26]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.09:515][211]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.09:540][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_showertub" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_showertub.uasset" SILENT=true
+[2021.01.31-03.06.09:560][211]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_showertub3F92DDE7466190664D0E669522FC3A62.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_showertub.uasset'
+[2021.01.31-03.06.09:582][211]AssetCheck: New page: Asset Save: prop_showertub
+[2021.01.31-03.06.09:582][211]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_showertub.prop_showertub
+[2021.01.31-03.06.11:623][331]LogSlate: Window 'prop_showertub' being destroyed
+[2021.01.31-03.06.11:640][331]LogSlate: Window 'prop_showertub' being destroyed
+[2021.01.31-03.06.11:658][331]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.06.11:658][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.06.13:844][437]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.13:873][437]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_simpledesk.prop_simpledesk
+[2021.01.31-03.06.13:906][437]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.15:739][484]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.18:847][645]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.18:879][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_simpledesk" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_simpledesk.uasset" SILENT=true
+[2021.01.31-03.06.18:894][645]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_simpledeskF45FA7FE44D446556650FCBF0DBDC85E.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_simpledesk.uasset'
+[2021.01.31-03.06.18:915][645]AssetCheck: New page: Asset Save: prop_simpledesk
+[2021.01.31-03.06.18:915][645]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_simpledesk.prop_simpledesk
+[2021.01.31-03.06.20:066][712]LogSlate: Window 'prop_simpledesk' being destroyed
+[2021.01.31-03.06.20:086][712]LogSlate: Window 'prop_simpledesk' being destroyed
+[2021.01.31-03.06.20:101][712]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.06.20:101][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.06.21:332][772]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.21:344][772]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_sink.prop_sink
+[2021.01.31-03.06.21:369][772]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.22:848][820]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.26:084][958]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.26:113][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_sink" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_sink.uasset" SILENT=true
+[2021.01.31-03.06.26:131][958]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_sinkB864A02844055201490B679CE2DD7707.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_sink.uasset'
+[2021.01.31-03.06.26:153][958]AssetCheck: New page: Asset Save: prop_sink
+[2021.01.31-03.06.26:153][958]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_sink.prop_sink
+[2021.01.31-03.06.27:182][ 14]LogSlate: Window 'prop_sink' being destroyed
+[2021.01.31-03.06.27:203][ 14]LogSlate: Window 'prop_sink' being destroyed
+[2021.01.31-03.06.27:221][ 14]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.06.27:221][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.06.29:126][107]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.29:140][107]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_stool.prop_stool
+[2021.01.31-03.06.29:166][107]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.30:616][154]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.35:157][369]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.35:187][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_stool" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_stool.uasset" SILENT=true
+[2021.01.31-03.06.35:206][369]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_stoolADCE45634E10E905E66D2181E18D90C9.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_stool.uasset'
+[2021.01.31-03.06.35:231][369]AssetCheck: New page: Asset Save: prop_stool
+[2021.01.31-03.06.35:232][369]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_stool.prop_stool
+[2021.01.31-03.06.38:322][548]LogSlate: Window 'prop_stool' being destroyed
+[2021.01.31-03.06.38:329][548]LogSlate: Window 'prop_stool' being destroyed
+[2021.01.31-03.06.38:378][548]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.06.38:378][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.06.42:104][695]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.42:119][695]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_Standing_Mirror.prop_Standing_Mirror
+[2021.01.31-03.06.42:143][695]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.44:108][768]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.47:338][938]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.47:367][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_Standing_Mirror" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_Standing_Mirror.uasset" SILENT=true
+[2021.01.31-03.06.47:382][938]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_Standing_Mirror2ADD33EF45BD38C3AB434CA2218C1EFF.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_Standing_Mirror.uasset'
+[2021.01.31-03.06.47:403][938]AssetCheck: New page: Asset Save: prop_Standing_Mirror
+[2021.01.31-03.06.47:403][938]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_Standing_Mirror.prop_Standing_Mirror
+[2021.01.31-03.06.48:823][ 22]LogSlate: Window 'prop_Standing_Mirror' being destroyed
+[2021.01.31-03.06.48:833][ 22]LogSlate: Window 'prop_Standing_Mirror' being destroyed
+[2021.01.31-03.06.48:898][ 22]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.06.48:899][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.06.50:491][103]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.50:505][103]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_stringlights.prop_stringlights
+[2021.01.31-03.06.50:530][103]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.51:744][134]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.55:052][303]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.55:078][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_stringlights" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_stringlights.uasset" SILENT=true
+[2021.01.31-03.06.55:097][303]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_stringlightsF6D221AE4EC4049ECAC5DD9E19B85DB2.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_stringlights.uasset'
+[2021.01.31-03.06.55:120][303]AssetCheck: New page: Asset Save: prop_stringlights
+[2021.01.31-03.06.55:120][303]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_stringlights.prop_stringlights
+[2021.01.31-03.06.56:480][382]LogSlate: Window 'prop_stringlights' being destroyed
+[2021.01.31-03.06.56:492][382]LogSlate: Window 'prop_stringlights' being destroyed
+[2021.01.31-03.06.56:529][382]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.06.56:529][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.06.58:895][498]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.06.58:913][498]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_table.prop_table
+[2021.01.31-03.06.58:939][498]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.00:248][536]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.03:937][716]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.03:967][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_table" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_table.uasset" SILENT=true
+[2021.01.31-03.07.03:984][716]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_table8B578D104EA7179C47C4E09A8C14BDE8.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_table.uasset'
+[2021.01.31-03.07.04:006][716]AssetCheck: New page: Asset Save: prop_table
+[2021.01.31-03.07.04:006][716]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_table.prop_table
+[2021.01.31-03.07.05:446][797]LogSlate: Window 'prop_table' being destroyed
+[2021.01.31-03.07.05:457][797]LogSlate: Window 'prop_table' being destroyed
+[2021.01.31-03.07.05:473][797]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.07.05:473][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.07.06:943][871]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.06:958][871]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_toilet.prop_toilet
+[2021.01.31-03.07.06:978][871]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.08:587][930]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.11:622][ 81]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.11:657][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_toilet" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_toilet.uasset" SILENT=true
+[2021.01.31-03.07.11:677][ 81]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_toilet0514B5E0435D1A55534745962C86C90E.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_toilet.uasset'
+[2021.01.31-03.07.11:699][ 81]AssetCheck: New page: Asset Save: prop_toilet
+[2021.01.31-03.07.11:699][ 81]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_toilet.prop_toilet
+[2021.01.31-03.07.13:103][159]LogSlate: Window 'prop_toilet' being destroyed
+[2021.01.31-03.07.13:140][159]LogSlate: Window 'prop_toilet' being destroyed
+[2021.01.31-03.07.13:171][159]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.07.13:171][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.07.14:348][195]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.14:365][195]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_towelrack.prop_towelrack
+[2021.01.31-03.07.14:392][195]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.15:772][232]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.19:754][400]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.24:195][611]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.24:228][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_towelrack" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_towelrack.uasset" SILENT=true
+[2021.01.31-03.07.24:255][611]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_towelrack13BF0E154CFFD0404232479630CEEC0B.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_towelrack.uasset'
+[2021.01.31-03.07.24:276][611]AssetCheck: New page: Asset Save: prop_towelrack
+[2021.01.31-03.07.24:276][611]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_towelrack.prop_towelrack
+[2021.01.31-03.07.25:298][668]LogSlate: Window 'prop_towelrack' being destroyed
+[2021.01.31-03.07.25:315][668]LogSlate: Window 'prop_towelrack' being destroyed
+[2021.01.31-03.07.25:332][668]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.07.25:332][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.07.31:971][966]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.31:992][966]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_TP.prop_TP
+[2021.01.31-03.07.32:015][966]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.32:581][967]LogRenderer: Reallocating scene render targets to support 920x704 Format 10 NumSamples 1 (Frame:1).
+[2021.01.31-03.07.33:428][  1]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.37:084][191]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.37:118][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_TP" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_TP.uasset" SILENT=true
+[2021.01.31-03.07.37:138][191]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_TP2452C48245249A0A3023779E77C3EDC3.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_TP.uasset'
+[2021.01.31-03.07.37:162][191]AssetCheck: New page: Asset Save: prop_TP
+[2021.01.31-03.07.37:162][191]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_TP.prop_TP
+[2021.01.31-03.07.38:171][248]LogSlate: Window 'prop_TP' being destroyed
+[2021.01.31-03.07.38:189][248]LogSlate: Window 'prop_TP' being destroyed
+[2021.01.31-03.07.38:238][248]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.07.38:238][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.07.39:308][294]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.39:322][294]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_tvremote.prop_tvremote
+[2021.01.31-03.07.39:348][294]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.41:489][372]LogSlate: Window 'prop_tvremote' being destroyed
+[2021.01.31-03.07.41:547][372]LogSlate: Window 'prop_tvremote' being destroyed
+[2021.01.31-03.07.41:582][372]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.07.41:582][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.07.42:516][399]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.42:531][399]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_washer.prop_washer
+[2021.01.31-03.07.42:554][399]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.43:971][436]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.48:041][627]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.48:069][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_washer" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_washer.uasset" SILENT=true
+[2021.01.31-03.07.48:085][627]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_washer5E0C0A344EF3774A41C9FBACF329FB42.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_washer.uasset'
+[2021.01.31-03.07.48:108][627]AssetCheck: New page: Asset Save: prop_washer
+[2021.01.31-03.07.48:108][627]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_washer.prop_washer
+[2021.01.31-03.07.49:311][698]LogSlate: Window 'prop_washer' being destroyed
+[2021.01.31-03.07.49:320][698]LogSlate: Window 'prop_washer' being destroyed
+[2021.01.31-03.07.49:336][698]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.07.49:337][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.07.50:780][763]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.50:798][763]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_wastebin.prop_wastebin
+[2021.01.31-03.07.50:825][763]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.51:323][764]LogRenderer: Reallocating scene render targets to support 924x704 Format 10 NumSamples 1 (Frame:1).
+[2021.01.31-03.07.52:242][807]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.55:629][971]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.55:658][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_wastebin" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_wastebin.uasset" SILENT=true
+[2021.01.31-03.07.55:675][971]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_wastebinD6DBE1F3439966F0EC6F34B32E2EE302.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_wastebin.uasset'
+[2021.01.31-03.07.55:699][971]AssetCheck: New page: Asset Save: prop_wastebin
+[2021.01.31-03.07.55:699][971]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_wastebin.prop_wastebin
+[2021.01.31-03.07.56:818][ 36]LogSlate: Window 'prop_wastebin' being destroyed
+[2021.01.31-03.07.56:832][ 36]LogSlate: Window 'prop_wastebin' being destroyed
+[2021.01.31-03.07.56:847][ 36]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.07.56:847][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.07.58:096][ 93]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.07.58:110][ 93]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_winebottle.prop_winebottle
+[2021.01.31-03.07.58:128][ 93]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.08.00:046][149]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.08.03:682][284]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.08.03:713][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_winebottle" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_winebottle.uasset" SILENT=true
+[2021.01.31-03.08.03:731][284]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_winebottle33927AE0402AD97A1B091EA2A4AA9973.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_winebottle.uasset'
+[2021.01.31-03.08.03:754][284]AssetCheck: New page: Asset Save: prop_winebottle
+[2021.01.31-03.08.03:754][284]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_winebottle.prop_winebottle
+[2021.01.31-03.08.04:815][346]LogSlate: Window 'prop_winebottle' being destroyed
+[2021.01.31-03.08.04:830][346]LogSlate: Window 'prop_winebottle' being destroyed
+[2021.01.31-03.08.04:846][346]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.08.04:846][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.08.05:749][383]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.08.05:769][383]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/myShit/geo/prop_winebox.prop_winebox
+[2021.01.31-03.08.05:794][383]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.08.07:548][441]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.08.12:199][637]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.08.12:235][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myShit/geo/prop_winebox" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_winebox.uasset" SILENT=true
+[2021.01.31-03.08.12:252][637]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/prop_wineboxAF699DE1494E86271A11CF94620E4E90.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/myShit/geo/prop_winebox.uasset'
+[2021.01.31-03.08.12:273][637]AssetCheck: New page: Asset Save: prop_winebox
+[2021.01.31-03.08.12:273][637]LogContentValidation: Display: Validating StaticMesh /Game/myShit/geo/prop_winebox.prop_winebox
+[2021.01.31-03.08.13:683][699]LogSlate: Window 'prop_winebox' being destroyed
+[2021.01.31-03.08.13:729][699]LogSlate: Window 'prop_winebox' being destroyed
+[2021.01.31-03.08.13:760][699]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.08.13:760][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.08.14:746][744]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-03.08.14:781][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.01.31-03.08.14:883][744]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/house1197C198A447FA19B31954DABE4F2EB5A.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Maps/house1.umap'
+[2021.01.31-03.08.14:914][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/house1_BuiltData" FILE="C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Maps/house1_BuiltData.uasset" SILENT=true
+[2021.01.31-03.08.15:277][744]LogSavePackage: Moving 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Saved/house1_BuiltData97378A7B441F10BBBC1CCAB344BDCD43.tmp' to 'C:/Users/Carla/Desktop/TisGameJam2021/GameJam2021 4.26/Content/FirstPersonBP/Maps/house1_BuiltData.uasset'
+[2021.01.31-03.08.15:309][744]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-03.08.15:309][744]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/house1_BuiltData.house1_BuiltData
+[2021.01.31-03.08.15:309][744]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/house1.house1
